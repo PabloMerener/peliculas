@@ -11,9 +11,15 @@ class Movie extends Model
       'movie_id', 'gender_id');
   }
 
+  // $movie->people()->attach(1,["job_role_id"=>2])
   public function people() {
     return $this->belongsToMany('App\People', 'movies_people',
-      'movie_id', 'person_id');
+      'movie_id', 'person_id')->withPivot('job_role');
+  }
+
+  public function jobsRoles() {
+    return $this->belongsToMany('App\JobRole', 'movies_people',
+      'movie_id', 'job_role_id');
   }
 
 }

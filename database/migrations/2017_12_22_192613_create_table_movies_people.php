@@ -18,9 +18,12 @@ class CreateTableMoviesPeople extends Migration
         $table->foreign('movie_id')->references('id')->on('movies');
         $table->integer('person_id')->unsigned();
         $table->foreign('person_id')->references('id')->on('people');
-        $table->primary(['movie_id', 'person_id']);
+        $table->integer('job_role_id')->unsigned();
+        $table->foreign('job_role_id')->references('id')->on('jobs_roles');
+        $table->primary(['movie_id', 'person_id','job_role_id']);
         $table->timestamps();
         $table->softDeletes();
+        $table->smallInteger('order')->default(0);
       });
     }
 
