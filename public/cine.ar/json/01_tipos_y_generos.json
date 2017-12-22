@@ -1,0 +1,244 @@
+{
+  "tipos": [
+    {
+      "orden": 0,
+      "text": "Películas",
+      "tag": "larg",
+      "sing-text": "Película",
+      "home": true
+    },
+    {
+      "orden": 1,
+      "text": "Series",
+      "tag": "cabeserie",
+      "sing-text": "Serie",
+      "home": true
+    },
+    {
+      "orden": 2,
+      "text": "Cortos",
+      "tag": "corto",
+      "sing-text": "Corto",
+      "home": true
+    },
+    {
+      "orden": 3,
+      "text": "Especiales",
+      "tag": "espe",
+      "sing-text": "Especial",
+      "home": true
+    },
+    {
+      "orden": 4,
+      "text": "Estrenos",
+      "tag": "tvod",
+      "sing-text": "Estreno",
+      "home": true
+    }
+  ],
+  "generos": [
+    {
+      "nom": "Comedia",
+      "style": "genero-INCAA-5",
+      "ab": "C",
+      "stylesec": "genero-INCAA-5-sec",
+      "home": true
+    },
+    {
+      "nom": "Drama",
+      "style": "genero-INCAA-7",
+      "ab": "D",
+      "stylesec": "genero-INCAA-7-sec",
+      "home": true
+    },
+    {
+      "nom": "Policial",
+      "style": "genero-INCAA-12",
+      "ab": "P",
+      "stylesec": "genero-INCAA-12-sec",
+      "home": true
+    },
+    {
+      "nom": "Documental",
+      "style": "genero-INCAA-6",
+      "ab": "D",
+      "stylesec": "genero-INCAA-6-sec",
+      "home": true
+    },
+    {
+      "nom": "Infantil",
+      "style": "genero-INCAA-10",
+      "ab": "I",
+      "stylesec": "genero-INCAA-10-sec",
+      "home": true
+    },
+    {
+      "nom": "Comedia Romántica",
+      "style": "genero-INCAA-29",
+      "ab": "CR",
+      "stylesec": "genero-INCAA-29-sec",
+      "home": true
+    },
+    {
+      "nom": "Clásicos",
+      "style": "genero-INCAA-33",
+      "ab": "CL",
+      "stylesec": "genero-INCAA-33-sec",
+      "home": true
+    },
+    {
+      "nom": "Series Web",
+      "style": "genero-INCAA-28",
+      "ab": "SW",
+      "stylesec": "genero-INCAA-28-sec",
+      "home": true
+    },
+    {
+      "nom": "Musical",
+      "style": "genero-INCAA-11",
+      "ab": "M",
+      "stylesec": "genero-INCAA-11-sec",
+      "home": true
+    },
+    {
+      "nom": "Terror",
+      "style": "genero-INCAA-16",
+      "ab": "T",
+      "stylesec": "genero-INCAA-16-sec",
+      "home": true
+    },
+    {
+      "nom": "Suspenso",
+      "style": "genero-INCAA-15",
+      "ab": "S",
+      "stylesec": "genero-INCAA-15-sec",
+      "home": true
+    },
+    {
+      "nom": "Deportes",
+      "style": "genero-INCAA-23",
+      "ab": "D",
+      "stylesec": "genero-INCAA-23-sec",
+      "home": true
+    },
+    {
+      "nom": "Comedia Dramática",
+      "style": "genero-INCAA-24",
+      "ab": "CD",
+      "stylesec": "genero-INCAA-24-sec",
+      "home": false
+    },
+    {
+      "nom": "Ciencia Ficción",
+      "style": "genero-INCAA-4",
+      "ab": "CF",
+      "stylesec": "genero-INCAA-4-sec",
+      "home": false
+    },
+    {
+      "nom": "Acción",
+      "style": "genero-INCAA-19",
+      "ab": "A",
+      "stylesec": "genero-INCAA-19-sec",
+      "home": false
+    },
+    {
+      "nom": "Fantástico",
+      "style": "genero-INCAA-9",
+      "ab": "F",
+      "stylesec": "genero-INCAA-9-sec",
+      "home": false
+    },
+    {
+      "nom": "Animación",
+      "style": "genero-INCAA-18",
+      "ab": "A",
+      "stylesec": "genero-INCAA-18-sec",
+      "home": false
+    },
+    {
+      "nom": "Entrevistas",
+      "style": "genero-INCAA-27",
+      "ab": "E",
+      "stylesec": "genero-INCAA-27-sec",
+      "home": false
+    },
+    {
+      "nom": "Comedia Negra",
+      "style": "genero-INCAA-30",
+      "ab": "CN",
+      "stylesec": "genero-INCAA-30-sec",
+      "home": false
+    },
+    {
+      "nom": "Policial Negro",
+      "style": "genero-INCAA-31",
+      "ab": "PN",
+      "stylesec": "genero-INCAA-31-sec",
+      "home": false
+    },
+    {
+      "nom": "Aventura",
+      "style": "genero-INCAA-1",
+      "ab": "A",
+      "stylesec": "genero-INCAA-1-sec",
+      "home": false
+    },
+    {
+      "nom": "Bélica",
+      "style": "genero-INCAA-2",
+      "ab": "B",
+      "stylesec": "genero-INCAA-2-sec",
+      "home": false
+    },
+    {
+      "nom": "Biográfica",
+      "style": "genero-INCAA-3",
+      "ab": "B",
+      "stylesec": "genero-INCAA-3-sec",
+      "home": false
+    },
+    {
+      "nom": "Histórico",
+      "style": "genero-INCAA-8",
+      "ab": "H",
+      "stylesec": "genero-INCAA-8-sec",
+      "home": false
+    },
+    {
+      "nom": "Western",
+      "style": "genero-INCAA-25",
+      "ab": "W",
+      "stylesec": "genero-INCAA-25-sec",
+      "home": false
+    },
+    {
+      "nom": "Romance",
+      "style": "genero-INCAA-13",
+      "ab": "R",
+      "stylesec": "genero-INCAA-13-sec",
+      "home": false
+    },
+    {
+      "nom": "Magazine",
+      "style": "genero-INCAA-32",
+      "ab": "MZ",
+      "stylesec": "genero-INCAA-32-sec",
+      "home": false
+    },
+    {
+      "nom": "Erótica",
+      "style": "genero-INCAA-14",
+      "ab": "E",
+      "stylesec": "genero-INCAA-14-sec",
+      "home": false
+    },
+    {
+      "nom": "Gore",
+      "style": "genero-INCAA-26",
+      "ab": "G",
+      "stylesec": "genero-INCAA-26-sec",
+      "home": false
+    }
+  ]
+}

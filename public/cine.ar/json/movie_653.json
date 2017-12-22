@@ -1,0 +1,363 @@
+{
+  "afis": [
+    "563a6a0f2916c53546d2c7d6"
+  ],
+  "playeruri": "https://player.cine.ar/odeon",
+  "dura": 88,
+  "an": "2002",
+  "tipos": [
+    {
+      "text": "Películas",
+      "tag": "larg",
+      "orden": 0
+    }
+  ],
+  "objsturi": "https://img.cine.ar/image",
+  "id": {
+    "source": "INCAA",
+    "sid": 653
+  },
+  "vista": {
+    "completa": false,
+    "secsTranscu": 0,
+    "secsDura": 0,
+    "porcen": 0,
+    "fModif": null
+  },
+  "rProme": 4.4,
+  "fotos": [
+    "563a6a0f2916c53546d2c7d7",
+    "563a6a0f2916c53546d2c7d8"
+  ],
+  "tit": "Un oso rojo",
+  "playerurimobile": "https://player.cine.ar/odeon",
+  "pers": {
+    "02": [
+      {
+        "nom": "Adrián Caetano",
+        "rol": "GUI",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Guion",
+        "rolorden": "00011",
+        "grupo": "02",
+        "sid": null,
+        "impor": 11
+      },
+      {
+        "nom": "Roberto Ceuninck",
+        "rol": "ADI",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Asistente de dirección",
+        "rolorden": "00012",
+        "grupo": "02",
+        "sid": null,
+        "impor": 12
+      },
+      {
+        "nom": "Jorge G. Behnisch",
+        "rol": "FOT",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Dirección de fotografía",
+        "rolorden": "00013",
+        "grupo": "02",
+        "sid": null,
+        "impor": 13
+      },
+      {
+        "nom": "Diego Grimblat",
+        "rol": "MUS",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Música",
+        "rolorden": "00014",
+        "grupo": "02",
+        "sid": null,
+        "impor": 14
+      },
+      {
+        "nom": "Marcos de Aguirre",
+        "rol": "SON",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Sonido",
+        "rolorden": "00015",
+        "grupo": "02",
+        "sid": null,
+        "impor": 15
+      },
+      {
+        "nom": "Jesica Suarez",
+        "rol": "SON",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Sonido",
+        "rolorden": "00015",
+        "grupo": "02",
+        "sid": null,
+        "impor": 16
+      },
+      {
+        "nom": "Santiago Ricci",
+        "rol": "MON",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Montaje",
+        "rolorden": "00016",
+        "grupo": "02",
+        "sid": null,
+        "impor": 17
+      },
+      {
+        "nom": "Graciela Oderigo",
+        "rol": "ART",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Arte",
+        "rolorden": "00017",
+        "grupo": "02",
+        "sid": null,
+        "impor": 18
+      },
+      {
+        "nom": "Lita Stantic",
+        "rol": "PRO",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Productor",
+        "rolorden": "00018",
+        "grupo": "02",
+        "sid": null,
+        "impor": 19
+      },
+      {
+        "nom": "Ruth Fischerman",
+        "rol": "VES",
+        "avatar": "561d5f562916c53546d2bd0d",
+        "roldesc": "Vestuario",
+        "rolorden": "00020",
+        "grupo": "02",
+        "sid": 9490,
+        "impor": 2
+      },
+      {
+        "nom": "Marisa Amenta",
+        "rol": "MAQ",
+        "avatar": "564399dc88bf7729806bb9e2",
+        "roldesc": "Maquillaje",
+        "rolorden": "00021",
+        "grupo": "02",
+        "sid": 10322,
+        "impor": 6
+      },
+      {
+        "nom": "Fx Stunt Team",
+        "rol": "FXS",
+        "avatar": "564399dc88bf7729806bb9e2",
+        "roldesc": "FX",
+        "rolorden": "00024",
+        "grupo": "02",
+        "sid": 10430,
+        "impor": 4
+      }
+    ],
+    "01": [
+      {
+        "nom": "Israel Adrián Caetano",
+        "rol": "DIR",
+        "avatar": "564cab8b88bf77787311f273",
+        "roldesc": "Dirección",
+        "rolorden": "00001",
+        "grupo": "01",
+        "sid": 6042,
+        "impor": 1
+      },
+      {
+        "nom": "Julio Chávez",
+        "rol": "INT",
+        "avatar": "563a51192916c53546d2c1da",
+        "roldesc": "Protagonistas",
+        "rolorden": "00003",
+        "grupo": "01",
+        "sid": 5532,
+        "impor": 5
+      },
+      {
+        "nom": "Soledad Villamil",
+        "rol": "INT",
+        "avatar": "563a527d2916c53546d2c2ab",
+        "roldesc": "Protagonistas",
+        "rolorden": "00003",
+        "grupo": "01",
+        "sid": 6462,
+        "impor": 8
+      },
+      {
+        "nom": "Luis Machín",
+        "rol": "ELS",
+        "avatar": "58065f972916c530fe067342",
+        "roldesc": "Elenco Secundario",
+        "rolorden": "00004",
+        "grupo": "01",
+        "sid": 6547,
+        "impor": 3
+      },
+      {
+        "nom": "Agostina Lage",
+        "rol": "ELS",
+        "avatar": "578d22832916c530fe066c2c",
+        "roldesc": "Elenco Secundario",
+        "rolorden": "00004",
+        "grupo": "01",
+        "sid": 7172,
+        "impor": 7
+      },
+      {
+        "nom": "René Lavand",
+        "rol": "ELS",
+        "avatar": "578d22832916c530fe066c2d",
+        "roldesc": "Elenco Secundario",
+        "rolorden": "00004",
+        "grupo": "01",
+        "sid": 7173,
+        "impor": 9
+      },
+      {
+        "nom": "Enrique Liporace",
+        "rol": "ELS",
+        "avatar": "56eadf3188bf7761113b9eed",
+        "roldesc": "Elenco Secundario",
+        "rolorden": "00004",
+        "grupo": "01",
+        "sid": 5180,
+        "impor": 10
+      }
+    ]
+  },
+  "rVotan": 595,
+  "tags": [
+    "color",
+    "larg",
+    "publi",
+    "arsat"
+  ],
+  "sino": "Aunque solo Oso lleva la cuenta, han pasado siete años desde que cayó preso por homicidio y robo a mano armada. Es un hombre parco, impredecible, violento por naturaleza o por necesidad, y es probable que en todos estos años no le haya dicho a nadie lo que oculta en sus silencios y la tristeza de su mirada. Ahora, mientras sale a la calle en libertad condicional, Oso piensa que tal vez pueda volver a empezar.\r\n",
+  "asociadas": [
+    {
+      "tit": "Tiempo final",
+      "id": {
+        "source": "INCAA",
+        "sid": 3147
+      },
+      "afi": "582379ab88bf77058a5b7965"
+    },
+    {
+      "tit": "El bonaerense",
+      "id": {
+        "source": "INCAA",
+        "sid": 1321
+      },
+      "afi": "56c7b61688bf770685c9ebce"
+    },
+    {
+      "tit": "En retirada",
+      "id": {
+        "source": "INCAA",
+        "sid": 492
+      },
+      "afi": "563a45a82916c53546d2bd28"
+    },
+    {
+      "tit": "El desquite",
+      "id": {
+        "source": "INCAA",
+        "sid": 374
+      },
+      "afi": "563a4cfd2916c53546d2bf44"
+    },
+    {
+      "tit": "Pasajeros de una pesadilla",
+      "id": {
+        "source": "INCAA",
+        "sid": 529
+      },
+      "afi": "56fd27f788bf7761113b9fe0"
+    },
+    {
+      "tit": "Teoría sobre las colonias",
+      "id": {
+        "source": "INCAA",
+        "sid": 1186
+      },
+      "afi": "564f9b9a88bf77787311f318"
+    },
+    {
+      "tit": "Un muro de silencio",
+      "id": {
+        "source": "INCAA",
+        "sid": 539
+      },
+      "afi": "563a526e2916c53546d2c23a"
+    },
+    {
+      "tit": "Tiempo de revancha",
+      "id": {
+        "source": "INCAA",
+        "sid": 462
+      },
+      "afi": "563a45ae2916c53546d2bd6a"
+    },
+    {
+      "tit": "La inocencia de la araña",
+      "id": {
+        "source": "INCAA",
+        "sid": 3954
+      },
+      "afi": "5877d10388bf77058a5b7ee5"
+    },
+    {
+      "tit": "Carancho",
+      "id": {
+        "source": "INCAA",
+        "sid": 1320
+      },
+      "afi": "563a5a4c2916c53546d2c463"
+    },
+    {
+      "tit": "Últimos días de la víctima",
+      "id": {
+        "source": "INCAA",
+        "sid": 464
+      },
+      "afi": "56cf04fd2916c577b1ae4aeb"
+    },
+    {
+      "tit": "El jefe",
+      "id": {
+        "source": "INCAA",
+        "sid": 292
+      },
+      "afi": "563a48f02916c53546d2be6d"
+    }
+  ],
+  "gens": [
+    {
+      "nom": "Policial",
+      "style": "genero-INCAA-12",
+      "ab": "P",
+      "stylesec": "genero-INCAA-12-sec",
+      "home": false
+    },
+    {
+      "nom": "Drama",
+      "style": "genero-INCAA-7",
+      "ab": "D",
+      "stylesec": "genero-INCAA-7-sec",
+      "home": false
+    },
+    {
+      "nom": "Acción",
+      "style": "genero-INCAA-19",
+      "ab": "A",
+      "stylesec": "genero-INCAA-19-sec",
+      "home": false
+    }
+  ],
+  "nacios": [
+    "AR"
+  ],
+  "ban": "5a2845cc88bf770b6df29280"
+}

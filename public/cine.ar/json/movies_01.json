@@ -1,0 +1,2356 @@
+{
+  "playeruri": "https://player.cine.ar/odeon",
+  "playerurimobile": "https://player.cine.ar/odeon",
+  "prods": [
+    {
+      "dura": 93,
+      "an": "2013",
+      "id": {
+        "source": "INCAA",
+        "sid": 2537
+      },
+      "visua": 9486,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3.5,
+      "afi": "563a5eb02916c53546d2c6d2",
+      "tit": "Sola contigo",
+      "pers": {
+        "01": [
+          {
+            "nom": "Alberto Lecchi",
+            "rol": "DIR",
+            "avatar": "563a46412916c53546d2be24",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 5726,
+            "impor": 1
+          },
+          {
+            "nom": "Ariadna Gil",
+            "rol": "INT",
+            "avatar": "56aa322d88bf77718ed08d71",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6456,
+            "impor": 2
+          },
+          {
+            "nom": "Leonardo Sbaraglia",
+            "rol": "INT",
+            "avatar": "563a4a9e2916c53546d2bed5",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5627,
+            "impor": 10
+          },
+          {
+            "nom": "Antonio Birabent",
+            "rol": "INT",
+            "avatar": "56495a8588bf77787311f16f",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6443,
+            "impor": 14
+          },
+          {
+            "nom": "Sabrina Garciarena",
+            "rol": "ELS",
+            "avatar": "56aa322d88bf77718ed08d72",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 7784,
+            "impor": 6
+          }
+        ]
+      },
+      "rVotan": 541,
+      "foto": "563a5eb02916c53546d2c6d3",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "María Teresa Maradei es una mujer exitosa a ojos de la sociedad. Lo ha conseguido todo, o casi todo; sin embargo, tras varios años de luchar contra un pasado tortuoso no ha sido capaz de recuperar lo que mas importa. En ese camino hacia la autodestrucción, María recibe una terrible amenaza. Una llamada telefónica le asegura que la va a matar, pero que antes de hacerlo deberá pedir perdón a todos aquellos a los que hizo daño.",
+      "gens": [
+        {
+          "nom": "Policial",
+          "style": "genero-INCAA-12",
+          "ab": "P",
+          "stylesec": "genero-INCAA-12-sec",
+          "home": false
+        },
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "ban": "598094a02916c529818a1fe8",
+      "mouseover": "56420a1488bf7729806bb957"
+    },
+    {
+      "dura": 103,
+      "an": "2011",
+      "gens": [
+        {
+          "nom": "Comedia Dramática",
+          "style": "genero-INCAA-24",
+          "ab": "CD",
+          "stylesec": "genero-INCAA-24-sec",
+          "home": false
+        }
+      ],
+      "id": {
+        "source": "INCAA",
+        "sid": 1354
+      },
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3.8,
+      "afi": "563a45ac2916c53546d2bd59",
+      "tit": "Viudas",
+      "pers": {
+        "01": [
+          {
+            "nom": "Marcos Carnevale",
+            "rol": "DIR",
+            "avatar": "563a48f52916c53546d2be7c",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6093,
+            "impor": 1
+          },
+          {
+            "nom": "Graciela Borges",
+            "rol": "INT",
+            "avatar": "563a4a772916c53546d2bec8",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 4880,
+            "impor": 2
+          },
+          {
+            "nom": "Valeria Bertuccelli",
+            "rol": "INT",
+            "avatar": "564cab8a88bf77787311f265",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6539,
+            "impor": 10
+          },
+          {
+            "nom": "Rita Cortese",
+            "rol": "INT",
+            "avatar": "58065f972916c530fe067340",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6110,
+            "impor": 13
+          },
+          {
+            "nom": "Martín Bossi",
+            "rol": "ELS",
+            "avatar": "5643855588bf7729806bb9c0",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 8546,
+            "impor": 6
+          }
+        ]
+      },
+      "rVotan": 453,
+      "foto": "563b5c8f2916c53546d2c833",
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "Elena es una reconocida directora de documentales, felizmente casada con Augusto, un músico de su misma edad, con quien no tuvo hijos. Una mañana Elena recibe un llamado anónimo: Augusto se descompuso y está en el hospital. En el sanatorio y acompañada por su amiga y asistente Esther, Elena descubre que quien trae a Augusto es Adela, una joven de treinta años, que resulta ser su amante. Elena no sólo tiene que soportar semejante revelación. Al borde de la muerte, su marido le pide que cuide de la joven. Elena atraviesa el duelo con furia y dolor. A los pocos días del fallecimiento, Adela aparece en su casa, intentando un acercamiento que Elena inicialmente rechaza. Desesperada, Adela intenta suicidarse, pero sobrevive. Elena, acorralada por su promesa, decide llevarla a vivir con ella hasta que la chica se recupere.",
+      "visua": 6937,
+      "ban": "564e32b288bf77787311f2b3",
+      "mouseover": "5641e4bd88bf7729806bb4aa"
+    },
+    {
+      "foto": "59ada25d2916c529818a229b",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 82,
+      "an": "2015",
+      "sino": "UNO sale de juerga y conoce a UNA en un bar y comienzan una relación amorosa. En principio, UNA le resulta atractiva, entretenida y además tienen muy buen sexo. Tal es así que la invita a vivir con él, pero, UNO extraña su soledad. ",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        },
+        {
+          "nom": "Romance",
+          "style": "genero-INCAA-13",
+          "ab": "R",
+          "stylesec": "genero-INCAA-13-sec",
+          "home": false
+        }
+      ],
+      "id": {
+        "source": "INCAA",
+        "sid": 4378
+      },
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3.3,
+      "afi": "59ada25d2916c529818a229a",
+      "tit": "Uno mismo",
+      "visua": 1266,
+      "pers": {
+        "01": [
+          {
+            "nom": "Gabriel Arregui",
+            "rol": "DIR",
+            "avatar": "59aea16688bf770b6df28c5d",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 5826,
+            "impor": 1
+          },
+          {
+            "nom": "Chino Darín",
+            "rol": "INT",
+            "avatar": "565867a488bf777873120cdd",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8898,
+            "impor": 2
+          },
+          {
+            "nom": "María Duplaá",
+            "rol": "INT",
+            "avatar": "574c5f2588bf7761113ba1ab",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 7257,
+            "impor": 6
+          },
+          {
+            "nom": "Ingrid Pelicori",
+            "rol": "INT",
+            "avatar": "58236dce88bf77058a5b795f",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5641,
+            "impor": 7
+          },
+          {
+            "nom": "Gabriel Arregui",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 8
+          }
+        ]
+      },
+      "rVotan": 136,
+      "ban": "59aeb0822916c529818a22a7",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "foto": "5a0f17592916c529818a2783",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 98,
+      "visua": 510,
+      "sino": "Cosquín Rock XV, El Rockumental; es una película que recorre la historia del festival de música más grande de Sudamérica, contado por sus protagonistas.",
+      "an": "2016",
+      "id": {
+        "source": "INCAA",
+        "sid": 4464
+      },
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.3,
+      "afi": "5a16fccc2916c529818a27d3",
+      "tit": "Cosquin Rock",
+      "gens": [
+        {
+          "nom": "Documental",
+          "style": "genero-INCAA-6",
+          "ab": "D",
+          "stylesec": "genero-INCAA-6-sec",
+          "home": false
+        },
+        {
+          "nom": "Musical",
+          "style": "genero-INCAA-11",
+          "ab": "M",
+          "stylesec": "genero-INCAA-11-sec",
+          "home": false
+        }
+      ],
+      "pers": {
+        "01": [
+          {
+            "nom": "Francisco Mostaza",
+            "rol": "DIR",
+            "avatar": "5a0f21c588bf770b6df29196",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 7406,
+            "impor": 1
+          },
+          {
+            "nom": "Charly García",
+            "rol": "INT",
+            "avatar": "563a528d2916c53546d2c2fc",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5153,
+            "impor": 3
+          },
+          {
+            "nom": "Norberto \"Pappo\" Napolitano",
+            "rol": "INT",
+            "avatar": "56d4932488bf7761113b9ccf",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 10005,
+            "impor": 4
+          },
+          {
+            "nom": "Luis Alberto Spinetta",
+            "rol": "INT",
+            "avatar": "5643855688bf7729806bb9d5",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5197,
+            "impor": 5
+          },
+          {
+            "nom": "León Gieco",
+            "rol": "INT",
+            "avatar": "563a51082916c53546d2c191",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5492,
+            "impor": 6
+          }
+        ]
+      },
+      "rVotan": 40,
+      "ban": "5a146e6d2916c529818a27c1",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "foto": "59f73be688bf770b6df2909b",
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 82,
+      "an": "2014",
+      "sino": "Elías mata y escapa herido. Perdido entre la niebla regresa a su isla. La inundación se llevó todo y su casa yace solitaria. Su padre le da refugio. Diferentes vecinos le dicen donde encontrar a Lara. Pero al reencontrarse conoce a su nueva familia.",
+      "id": {
+        "source": "INCAA",
+        "sid": 382
+      },
+      "visua": 107,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 2.6,
+      "afi": "59f73be688bf770b6df2909a",
+      "tit": "La huella en la niebla",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "pers": {
+        "01": [
+          {
+            "nom": "Emiliano Grieco",
+            "rol": "DIR",
+            "avatar": "59b8026a88bf770b6df28cc6",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 8375,
+            "impor": 1
+          },
+          {
+            "nom": "Germán De Silva",
+            "rol": "INT",
+            "avatar": "59bc17ef88bf770b6df28cf3",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8516,
+            "impor": 2
+          },
+          {
+            "nom": "Damián Enríquez",
+            "rol": "INT",
+            "avatar": "5a031b5b2916c529818a2725",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5105,
+            "impor": 5
+          },
+          {
+            "nom": " Emme",
+            "rol": "INT",
+            "avatar": "5646421788bf77787311f156",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8208,
+            "impor": 6
+          },
+          {
+            "nom": "Emiliano Grieco",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 7
+          }
+        ]
+      },
+      "rVotan": 20,
+      "ban": "5a01e46488bf770b6df2911f",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "dura": 88,
+      "an": "2002",
+      "id": {
+        "source": "INCAA",
+        "sid": 653
+      },
+      "visua": 5475,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.4,
+      "afi": "563a6a0f2916c53546d2c7d6",
+      "tit": "Un oso rojo",
+      "pers": {
+        "01": [
+          {
+            "nom": "Israel Adrián Caetano",
+            "rol": "DIR",
+            "avatar": "564cab8b88bf77787311f273",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6042,
+            "impor": 1
+          },
+          {
+            "nom": "Julio Chávez",
+            "rol": "INT",
+            "avatar": "563a51192916c53546d2c1da",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5532,
+            "impor": 5
+          },
+          {
+            "nom": "Soledad Villamil",
+            "rol": "INT",
+            "avatar": "563a527d2916c53546d2c2ab",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6462,
+            "impor": 8
+          },
+          {
+            "nom": "Luis Machín",
+            "rol": "ELS",
+            "avatar": "58065f972916c530fe067342",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 6547,
+            "impor": 3
+          },
+          {
+            "nom": "Agostina Lage",
+            "rol": "ELS",
+            "avatar": "578d22832916c530fe066c2c",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 7172,
+            "impor": 7
+          }
+        ]
+      },
+      "rVotan": 595,
+      "foto": "563a6a0f2916c53546d2c7d7",
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "Aunque solo Oso lleva la cuenta, han pasado siete años desde que cayó preso por homicidio y robo a mano armada. Es un hombre parco, impredecible, violento por naturaleza o por necesidad, y es probable que en todos estos años no le haya dicho a nadie lo que oculta en sus silencios y la tristeza de su mirada. Ahora, mientras sale a la calle en libertad condicional, Oso piensa que tal vez pueda volver a empezar.\r\n",
+      "gens": [
+        {
+          "nom": "Policial",
+          "style": "genero-INCAA-12",
+          "ab": "P",
+          "stylesec": "genero-INCAA-12-sec",
+          "home": false
+        },
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        },
+        {
+          "nom": "Acción",
+          "style": "genero-INCAA-19",
+          "ab": "A",
+          "stylesec": "genero-INCAA-19-sec",
+          "home": false
+        }
+      ],
+      "ban": "5a2845cc88bf770b6df29280",
+      "mouseover": "564208c788bf7729806bb8b0"
+    },
+    {
+      "dura": 84,
+      "an": "2010",
+      "id": {
+        "source": "INCAA",
+        "sid": 1385
+      },
+      "visua": 624,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.1,
+      "afi": "563a5a622916c53546d2c526",
+      "tit": "Las acacias",
+      "pers": {
+        "01": [
+          {
+            "nom": "Pablo Giorgelli",
+            "rol": "DIR",
+            "avatar": "563a5a622916c53546d2c525",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 8519,
+            "impor": 1
+          },
+          {
+            "nom": "Germán De Silva",
+            "rol": "INT",
+            "avatar": "59bc17ef88bf770b6df28cf3",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8516,
+            "impor": 2
+          },
+          {
+            "nom": "Hebe Duarte",
+            "rol": "INT",
+            "avatar": "59bc17ef88bf770b6df28cf4",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8517,
+            "impor": 3
+          },
+          {
+            "nom": "Pablo Giorgelli",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 4
+          },
+          {
+            "nom": "Salvador Roselli",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 5
+          }
+        ]
+      },
+      "rVotan": 77,
+      "foto": "563a5a622916c53546d2c528",
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "Rubén es un camionero solitario que hace años recorre la ruta entre Asunción y Buenos Aires llevando madera. Pero el viaje que está por iniciar será diferente. Esa mañana, Jacinta llega a la cita una hora más tarde. Y viene con alguien, su hija de ocho meses Anahí. Para Rubén no es el mejor comienzo. Con el correr de los kilómetros, la relación entre Rubén, Jacinta y Anahí crecerá.",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "ban": "59c01d332916c529818a235d",
+      "mouseover": "5641e47388bf7729806bb49f"
+    },
+    {
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3.3,
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "Marea baja",
+      "afi": "59d783572916c529818a24b2",
+      "gens": [
+        {
+          "nom": "Policial",
+          "style": "genero-INCAA-12",
+          "ab": "P",
+          "stylesec": "genero-INCAA-12-sec",
+          "home": false
+        }
+      ],
+      "dura": 73,
+      "an": "2013",
+      "pers": {
+        "01": [
+          {
+            "nom": "Paulo Pécora",
+            "rol": "DIR",
+            "avatar": "56eac7f388bf7761113b9ee3",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 7827,
+            "impor": 1
+          },
+          {
+            "nom": "Germán De Silva",
+            "rol": "INT",
+            "avatar": "59bc17ef88bf770b6df28cf3",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8516,
+            "impor": 5
+          },
+          {
+            "nom": "Susana Varela",
+            "rol": "INT",
+            "avatar": "59d783582916c529818a24b7",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 7004,
+            "impor": 10
+          },
+          {
+            "nom": "Mónica Lairana",
+            "rol": "INT",
+            "avatar": "5658779d88bf777873120d6d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6409,
+            "impor": 11
+          },
+          {
+            "nom": "Marcelo Paez",
+            "rol": "ELS",
+            "avatar": "59d783582916c529818a24b6",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 7842,
+            "impor": 3
+          }
+        ]
+      },
+      "sino": "La llegada de un extraño a un paraje lejano y selvático del delta del Paraná produce grandes cambios. Es un ladrón que escapa de sus cómplices, que lo buscan para cobrarle una deuda.",
+      "rVotan": 21,
+      "foto": "59d783572916c529818a24b3",
+      "mouseover": "561d61072916c53546d2bd11",
+      "id": {
+        "source": "INCAA",
+        "sid": 4357
+      },
+      "visua": 200
+    },
+    {
+      "dura": 88,
+      "an": "2015",
+      "id": {
+        "source": "INCAA",
+        "sid": 2544
+      },
+      "visua": 2439,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3.8,
+      "afi": "563a5eb32916c53546d2c6e7",
+      "tit": "Tuya",
+      "pers": {
+        "01": [
+          {
+            "nom": "Edgardo González Amer",
+            "rol": "DIR",
+            "avatar": "56e8245d88bf7761113b9ec0",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6444,
+            "impor": 1
+          },
+          {
+            "nom": "Andrea Pietra",
+            "rol": "INT",
+            "avatar": "57cdbb7c2916c530fe066fb6",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6597,
+            "impor": 2
+          },
+          {
+            "nom": "Jorge Marrale",
+            "rol": "INT",
+            "avatar": "564cab8388bf77787311f241",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5891,
+            "impor": 7
+          },
+          {
+            "nom": "Juana Viale",
+            "rol": "INT",
+            "avatar": "5797908d2916c530fe066ce9",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 7425,
+            "impor": 9
+          },
+          {
+            "nom": "Ana Calentano",
+            "rol": "ELS",
+            "avatar": "59a43a102916c529818a220b",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 9559,
+            "impor": 4
+          }
+        ]
+      },
+      "rVotan": 115,
+      "foto": "59a433f088bf770b6df28bca",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "La cómoda y apacible vida de Inés se ve convulsionada cuando por azar descubre una carta de amor dirigida hacia Ernesto, su marido. No hay remitente. Sólo un corazón dibujado con rouge rojo, cruzado por un \"te quiero\" y firmado: \"tuya\". Una prueba irrefutable de un engaño.",
+      "gens": [
+        {
+          "nom": "Policial",
+          "style": "genero-INCAA-12",
+          "ab": "P",
+          "stylesec": "genero-INCAA-12-sec",
+          "home": false
+        }
+      ],
+      "ban": "59a57ab788bf770b6df28be8",
+      "mouseover": "564209f388bf7729806bb949"
+    },
+    {
+      "foto": "59bfdeaa2916c529818a2358",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 84,
+      "an": "2011",
+      "sino": "Un padre debe hacerse cargo de la crianza de una hija que no conoce luego de la muerte de su madre. En un citroën destartalado inician un viaje hacia su propia identidad con la esperanza de llegar a un destino que los contenga a los dos.",
+      "id": {
+        "source": "INCAA",
+        "sid": 4438
+      },
+      "visua": 1551,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.1,
+      "afi": "59bc1db988bf770b6df28d03",
+      "tit": "Road July",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        },
+        {
+          "nom": "Comedia Dramática",
+          "style": "genero-INCAA-24",
+          "ab": "CD",
+          "stylesec": "genero-INCAA-24-sec",
+          "home": false
+        }
+      ],
+      "pers": {
+        "01": [
+          {
+            "nom": "Gaspar Gómez",
+            "rol": "DIR",
+            "avatar": "59bc24012916c529818a2332",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 7823,
+            "impor": 2
+          },
+          {
+            "nom": "Federica Cafferata",
+            "rol": "INT",
+            "avatar": "59bc17ef88bf770b6df28cf8",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 3982,
+            "impor": 4
+          },
+          {
+            "nom": "Francisco Carrasco",
+            "rol": "INT",
+            "avatar": "59bc17f088bf770b6df28cf9",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8350,
+            "impor": 9
+          },
+          {
+            "nom": "Mirta Busnelli",
+            "rol": "INT",
+            "avatar": "563a51142916c53546d2c1c8",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5463,
+            "impor": 10
+          },
+          {
+            "nom": "Betiana Blum",
+            "rol": "INT",
+            "avatar": "563a525d2916c53546d2c1f4",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5615,
+            "impor": 11
+          }
+        ]
+      },
+      "rVotan": 138,
+      "ban": "59c01d332916c529818a235f",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "dura": 86,
+      "an": "2012",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "id": {
+        "source": "INCAA",
+        "sid": 1474
+      },
+      "vista": {
+        "completa": true,
+        "secsTranscu": 0,
+        "secsDura": 5136,
+        "porcen": 100,
+        "fModif": "2015-12-24T16:39:33.310541"
+      },
+      "rProme": 4,
+      "afi": "56562d3c88bf77787311fb67",
+      "tit": "Por un tiempo",
+      "pers": {
+        "01": [
+          {
+            "nom": "Gustavo Garzón",
+            "rol": "DIR",
+            "avatar": "56586f7188bf777873120d12",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6441,
+            "impor": 1
+          },
+          {
+            "nom": "Ana Katz",
+            "rol": "INT",
+            "avatar": "563a527d2916c53546d2c2aa",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6452,
+            "impor": 2
+          },
+          {
+            "nom": "Esteban Lamothe",
+            "rol": "INT",
+            "avatar": "563a5b692916c53546d2c62c",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6720,
+            "impor": 8
+          },
+          {
+            "nom": "Mora Arenillas",
+            "rol": "INT",
+            "avatar": "56587fbe88bf777873120dce",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8740,
+            "impor": 12
+          },
+          {
+            "nom": "Patricio Contreras",
+            "rol": "ELS",
+            "avatar": "563a52642916c53546d2c215",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 5696,
+            "impor": 5
+          }
+        ]
+      },
+      "rVotan": 332,
+      "foto": "56562d3c88bf77787311fb68",
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "Leandro y Silvina, joven y exitosa pareja de clase media, viven el momento más feliz de sus vidas: esperan con ansias la llegada de su primer hijo, luego de cuatro años de intensa búsqueda. De repente, Leandro se entera que es padre de una hija adolescente, fruto de una relación ocasional en su juventud y debe llevarla a vivir con él. La irrupción de esta niña, triste y silenciosa, desestabiliza a la pareja dejando al descubierto diferencias hasta entonces desconocidas.",
+      "visua": 4466,
+      "ban": "598e029b2916c529818a20ab",
+      "mouseover": "56562d3d88bf77787311fb6a"
+    },
+    {
+      "foto": "57c46ff72916c530fe066f11",
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 71,
+      "an": "2013",
+      "sino": "Germania es la vida del último día de una familia de alemanes de Volga en una pequeña aldea de Entre Ríos. La Madre, y sus dos hijos adolescentes, Lucas y Brenda, realizan un duelo íntimo esperando la partida. Pero las razones de su huida son misteriosas. ",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "id": {
+        "source": "INCAA",
+        "sid": 3514
+      },
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3.4,
+      "afi": "57c46ff62916c530fe066f10",
+      "tit": "Germania",
+      "visua": 887,
+      "pers": {
+        "01": [
+          {
+            "nom": "Maximiliano Schonfeld",
+            "rol": "DIR",
+            "avatar": "57c472672916c530fe066f13",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 9444,
+            "impor": 1
+          },
+          {
+            "nom": "Lucas Schell",
+            "rol": "INT",
+            "avatar": "57c8365a2916c530fe066f46",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 10525,
+            "impor": 4
+          },
+          {
+            "nom": "Margarita Greifenstein",
+            "rol": "INT",
+            "avatar": "57c838a22916c530fe066f49",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 10526,
+            "impor": 6
+          },
+          {
+            "nom": "Brenda Krutli",
+            "rol": "INT",
+            "avatar": "57c838a22916c530fe066f48",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 10527,
+            "impor": 8
+          },
+          {
+            "nom": "Maximiliano Schonfeld",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 9
+          }
+        ]
+      },
+      "rVotan": 100,
+      "ban": "57c73ec62916c530fe066f3c",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "dura": 105,
+      "an": "2013",
+      "id": {
+        "source": "INCAA",
+        "sid": 2471
+      },
+      "visua": 2308,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.1,
+      "afi": "59b6ea9788bf770b6df28cb9",
+      "tit": "Vino para robar ",
+      "pers": {
+        "01": [
+          {
+            "nom": "Ariel Winograd",
+            "rol": "DIR",
+            "avatar": "563a52742916c53546d2c263",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6187,
+            "impor": 1
+          },
+          {
+            "nom": "Daniel Hendler",
+            "rol": "INT",
+            "avatar": "5693b99d88bf777873123728",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6323,
+            "impor": 2
+          },
+          {
+            "nom": "Valeria Bertuccelli",
+            "rol": "INT",
+            "avatar": "564cab8a88bf77787311f265",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6539,
+            "impor": 7
+          },
+          {
+            "nom": "Martín Piroyansky",
+            "rol": "INT",
+            "avatar": "563a46402916c53546d2be1d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6541,
+            "impor": 9
+          },
+          {
+            "nom": "Pablo Rago",
+            "rol": "ELS",
+            "avatar": "563a49102916c53546d2bea1",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 6322,
+            "impor": 5
+          }
+        ]
+      },
+      "rVotan": 246,
+      "foto": "59b6ea9788bf770b6df28cba",
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "Sebastián conoce a Natalia cuando está intentando robar una importante pieza de arte de un museo, y ella le gana de mano. Rivales declarados, los dos tendrán que trabajar juntos en un robo más complejo.Tienen que sacar de la bóveda de un banco mendocino, una valiosa y única botella de Malbec de mediados del siglo XIX.",
+      "gens": [
+        {
+          "nom": "Comedia",
+          "style": "genero-INCAA-5",
+          "ab": "C",
+          "stylesec": "genero-INCAA-5-sec",
+          "home": false
+        }
+      ],
+      "ban": "59b80b8b2916c529818a2308",
+      "mouseover": "5641e3c788bf7729806bb478"
+    },
+    {
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3.9,
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "Pájaros volando",
+      "afi": "563a45ac2916c53546d2bd5b",
+      "visua": 3085,
+      "dura": 112,
+      "an": "2010",
+      "pers": {
+        "01": [
+          {
+            "nom": "Néstor Montalbano",
+            "rol": "DIR",
+            "avatar": "563a48eb2916c53546d2be4d",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6286,
+            "impor": 2
+          },
+          {
+            "nom": "Diego Capusotto",
+            "rol": "INT",
+            "avatar": "563a48f42916c53546d2be78",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 7092,
+            "impor": 1
+          },
+          {
+            "nom": "Luis Luque",
+            "rol": "INT",
+            "avatar": "563a48f42916c53546d2be79",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5691,
+            "impor": 3
+          },
+          {
+            "nom": "Verónica Llinás",
+            "rol": "INT",
+            "avatar": "563a54542916c53546d2c370",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6125,
+            "impor": 10
+          },
+          {
+            "nom": "Alejandra Flechner",
+            "rol": "INT",
+            "avatar": "56a799a288bf77718ed08cf3",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6079,
+            "impor": 19
+          }
+        ]
+      },
+      "sino": "José es un músico frustrado que se mantiene trabajando en una remisería. Cansado de la rutina y de la falta de proyectos, decide aceptar la invitación de su primo para irse a vivir a Las Pircas, un pueblito en las sierras cordobesas donde la energía y el nivel cósmico lo harán vivir un encuentro cercano con seres de otro planeta.",
+      "gens": [
+        {
+          "nom": "Comedia",
+          "style": "genero-INCAA-5",
+          "ab": "C",
+          "stylesec": "genero-INCAA-5-sec",
+          "home": false
+        }
+      ],
+      "rVotan": 463,
+      "foto": "573c9c572916c51130785c56",
+      "mouseover": "5641e54888bf7729806bb4ed",
+      "id": {
+        "source": "INCAA",
+        "sid": 703
+      }
+    },
+    {
+      "dura": 87,
+      "an": "2009",
+      "id": {
+        "source": "INCAA",
+        "sid": 1346
+      },
+      "visua": 3000,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3.1,
+      "afi": "5783dea12916c530fe066b4c",
+      "tit": "Por tu culpa",
+      "pers": {
+        "01": [
+          {
+            "nom": "Anahí Berneri",
+            "rol": "DIR",
+            "avatar": "563a5a4f2916c53546d2c487",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6520,
+            "impor": 2
+          },
+          {
+            "nom": "Érica Rivas",
+            "rol": "INT",
+            "avatar": "56586f7188bf777873120d0f",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6168,
+            "impor": 1
+          },
+          {
+            "nom": "Rubén Viani",
+            "rol": "INT",
+            "avatar": "577d1af32916c530fe066ae1",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8213,
+            "impor": 8
+          },
+          {
+            "nom": "Zenón Galán",
+            "rol": "ELS",
+            "avatar": "577d1d372916c530fe066ae3",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 10385,
+            "impor": 3
+          },
+          {
+            "nom": "Nicasio Galán",
+            "rol": "ELS",
+            "avatar": "577d166e2916c530fe066ae0",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 8212,
+            "impor": 7
+          }
+        ]
+      },
+      "rVotan": 331,
+      "foto": "563a5a542916c53546d2c4b3",
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "Julieta está sola en casa con sus hijos, Valentín, de ocho años y Teo de dos. Los chicos se divierten jugando a la lucha libre en la cama matrimonial, mientras su madre intenta terminar una entrega laboral. Esa noche su padre no ha cumplido con el trato de encargarse de ellos. Ocurre lo inevitable, Teo se lastima. Julieta busca asistencia para su hijo en una clínica privada. Pero todo se transforma en una pesadilla que amenaza con quitarle a sus hijos de su lado.",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "ban": "5993482e2916c529818a20ec",
+      "mouseover": "5641e6bc88bf7729806bb4fb"
+    },
+    {
+      "dura": 98,
+      "an": "2013",
+      "id": {
+        "source": "INCAA",
+        "sid": 2523
+      },
+      "visua": 8878,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 1503,
+        "secsDura": 5873,
+        "porcen": 25,
+        "fModif": "2016-06-25T22:56:52.487091"
+      },
+      "rProme": 3.6,
+      "afi": "563a5eaa2916c53546d2c6c3",
+      "tit": "El crítico",
+      "pers": {
+        "01": [
+          {
+            "nom": "Hernán Guerschuny",
+            "rol": "DIR",
+            "avatar": "5682c40a88bf777873123454",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 8868,
+            "impor": 1
+          },
+          {
+            "nom": "Rafael Spregelburd",
+            "rol": "INT",
+            "avatar": "563a565f2916c53546d2c3eb",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 7339,
+            "impor": 2
+          },
+          {
+            "nom": "Dolores Fonzi",
+            "rol": "INT",
+            "avatar": "563a52732916c53546d2c260",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6177,
+            "impor": 11
+          },
+          {
+            "nom": "Ignacio Rogers",
+            "rol": "INT",
+            "avatar": "5682c40a88bf777873123456",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6283,
+            "impor": 13
+          },
+          {
+            "nom": "Telma Crisanti",
+            "rol": "ELS",
+            "avatar": "574c5f2588bf7761113ba1ac",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 8869,
+            "impor": 7
+          }
+        ]
+      },
+      "rVotan": 843,
+      "foto": "563a5eaa2916c53546d2c6c4",
+      "tags": [
+        "larg",
+        "publi",
+        "adson",
+        "arsat"
+      ],
+      "sino": "Víctor Téllez es un severo y prestigioso crítico de cine harto de las comedias románticas y convencido de que lo mejor del séptimo arte murió hace tiempo. Tal vez producto de su oficio, padece lo que él denomina La Maladie du Cinemá: ve al mundo como si fuera una gran película que, además, no puede evitar criticar. En la búsqueda de un nuevo departamento donde vivir, conoce inesperadamente a Sofía, una mujer atractiva pero que poco tiene que ver con su buen gusto. Él la describiría como \"elemental y construida a fuerza de clichés\". Sin embargo, el azar se encarga de encontrarlos una y otra vez en situaciones extrañamente idílicas. Mientras Téllez intenta escapar de una puesta en escena que aborrece, comienza a sospechar que el género que más odia le está jugando una revancha.",
+      "gens": [
+        {
+          "nom": "Comedia",
+          "style": "genero-INCAA-5",
+          "ab": "C",
+          "stylesec": "genero-INCAA-5-sec",
+          "home": false
+        },
+        {
+          "nom": "Romance",
+          "style": "genero-INCAA-13",
+          "ab": "R",
+          "stylesec": "genero-INCAA-13-sec",
+          "home": false
+        },
+        {
+          "nom": "Comedia Romántica",
+          "style": "genero-INCAA-29",
+          "ab": "CR",
+          "stylesec": "genero-INCAA-29-sec",
+          "home": false
+        }
+      ],
+      "ban": "5686c03088bf7778731234b8",
+      "mouseover": "56420a3788bf7729806bb964"
+    },
+    {
+      "foto": "597f746988bf770b6df289a5",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 103,
+      "an": "2014",
+      "sino": "Una madrugada, Mariano, un adolescente de 16 años, encuentra un revólver en su casa y sin pensarlo se dispara dos veces. Sobrevive. Dos disparos es la historia sobre cómo Mariano y su familia reaccionan a esta situación.",
+      "id": {
+        "source": "INCAA",
+        "sid": 4345
+      },
+      "visua": 969,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 2.9,
+      "afi": "597f772788bf770b6df289a7",
+      "tit": "Dos disparos",
+      "gens": [
+        {
+          "nom": "Comedia Dramática",
+          "style": "genero-INCAA-24",
+          "ab": "CD",
+          "stylesec": "genero-INCAA-24-sec",
+          "home": false
+        }
+      ],
+      "pers": {
+        "01": [
+          {
+            "nom": "Martin Rejtman",
+            "rol": "DIR",
+            "avatar": "564cab8c88bf77787311f28a",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 5939,
+            "impor": 1
+          },
+          {
+            "nom": "Rafael Federman",
+            "rol": "INT",
+            "avatar": "58c8339d88bf77058a5b8458",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 4157,
+            "impor": 3
+          },
+          {
+            "nom": "Susana Pampin",
+            "rol": "INT",
+            "avatar": "56495fce88bf77787311f1b1",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 7052,
+            "impor": 7
+          },
+          {
+            "nom": "Walter Jakob",
+            "rol": "INT",
+            "avatar": "597f7cbe88bf770b6df289ab",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 7432,
+            "impor": 10
+          },
+          {
+            "nom": "Fabián Arenillas",
+            "rol": "INT",
+            "avatar": "579a3f092916c530fe066d2d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6746,
+            "impor": 12
+          }
+        ]
+      },
+      "rVotan": 140,
+      "ban": "598e029b2916c529818a20aa",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "dura": 108,
+      "an": "2010",
+      "id": {
+        "source": "INCAA",
+        "sid": 1328
+      },
+      "visua": 3708,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3.9,
+      "afi": "563a5a4e2916c53546d2c47d",
+      "tit": "Dos hermanos",
+      "pers": {
+        "01": [
+          {
+            "nom": "Daniel Burman",
+            "rol": "DIR",
+            "avatar": "563a45d82916c53546d2bda2",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6043,
+            "impor": 1
+          },
+          {
+            "nom": "Graciela Borges",
+            "rol": "INT",
+            "avatar": "563a4a772916c53546d2bec8",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 4880,
+            "impor": 2
+          },
+          {
+            "nom": "Antonio Gasalla",
+            "rol": "INT",
+            "avatar": "563a5a4e2916c53546d2c47c",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5209,
+            "impor": 10
+          },
+          {
+            "nom": "Osmar Núñez",
+            "rol": "ELS",
+            "avatar": "563a48ee2916c53546d2be66",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 6417,
+            "impor": 5
+          },
+          {
+            "nom": "Rita Cortese",
+            "rol": "ELS",
+            "avatar": "58065f972916c530fe067340",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 6110,
+            "impor": 11
+          }
+        ]
+      },
+      "rVotan": 443,
+      "foto": "563a5a4e2916c53546d2c47e",
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "Marcos (Antonio Gasalla)  y Susana (Graciela Borges) son dos hermanos que rondan los sesenta, viven en un continuo y cómico enfrentamiento. Sus vidas y sus temperamentos son completamente distintos, pero se ven obligados  a afianzar su relación tras la muerte de su madre. Susana, con una personalidad entre avasalladora y delirante, convence a su hermano Marcos, un hombre culto y sensible, para que compre una vieja casa en un pequeño pueblo uruguayo. Comenzarán así un nuevo periodo de su vida en el que no sabrán estar juntos ni separados.",
+      "gens": [
+        {
+          "nom": "Comedia Dramática",
+          "style": "genero-INCAA-24",
+          "ab": "CD",
+          "stylesec": "genero-INCAA-24-sec",
+          "home": false
+        },
+        {
+          "nom": "Comedia",
+          "style": "genero-INCAA-5",
+          "ab": "C",
+          "stylesec": "genero-INCAA-5-sec",
+          "home": false
+        }
+      ],
+      "ban": "578fc57e2916c530fe066c65",
+      "mouseover": "5641dfed88bf7729806bb3f9"
+    },
+    {
+      "foto": "59d24a2188bf770b6df28e55",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 92,
+      "an": "2016",
+      "sino": "El bien y el mal representados por el fútbol bien o mal jugado. El fútbol de potrero vs. el catenaccio. La espontaneidad vs. lo planificado. La dinámica de lo impensado como Biblia.",
+      "id": {
+        "source": "INCAA",
+        "sid": 4362
+      },
+      "visua": 550,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3.9,
+      "afi": "59ce7b8288bf770b6df28e08",
+      "tit": "El hijo de Dios",
+      "gens": [
+        {
+          "nom": "Western",
+          "style": "genero-INCAA-25",
+          "ab": "W",
+          "stylesec": "genero-INCAA-25-sec",
+          "home": false
+        },
+        {
+          "nom": "Comedia",
+          "style": "genero-INCAA-5",
+          "ab": "C",
+          "stylesec": "genero-INCAA-5-sec",
+          "home": false
+        },
+        {
+          "nom": "Deportes",
+          "style": "genero-INCAA-23",
+          "ab": "D",
+          "stylesec": "genero-INCAA-23-sec",
+          "home": false
+        }
+      ],
+      "pers": {
+        "01": [
+          {
+            "nom": "Mariano Fernández",
+            "rol": "DIR",
+            "avatar": "59ce8c8b88bf770b6df28e1a",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 9228,
+            "impor": 1
+          },
+          {
+            "nom": "Gastón Girod",
+            "rol": "DIR",
+            "avatar": "59ce8c8b88bf770b6df28e19",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 8198,
+            "impor": 7
+          },
+          {
+            "nom": "Paulo Soria",
+            "rol": "INT",
+            "avatar": "56aa322d88bf77718ed08d6f",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6551,
+            "impor": 2
+          },
+          {
+            "nom": "Juan Lo Sasso",
+            "rol": "INT",
+            "avatar": "59ce8c8b88bf770b6df28e1b",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5054,
+            "impor": 8
+          },
+          {
+            "nom": "Ignacio Ballone",
+            "rol": "INT",
+            "avatar": "59d2695688bf770b6df28e57",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6791,
+            "impor": 11
+          }
+        ]
+      },
+      "rVotan": 74,
+      "ban": "59d3ba582916c529818a2488",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "dura": 120,
+      "an": "2006",
+      "id": {
+        "source": "INCAA",
+        "sid": 615
+      },
+      "visua": 545,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.3,
+      "afi": "563a52862916c53546d2c2e2",
+      "tit": "Las manos",
+      "pers": {
+        "01": [
+          {
+            "nom": "Alejandro Doria",
+            "rol": "DIR",
+            "avatar": "57ae18622916c530fe066e26",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 5224,
+            "impor": 1
+          },
+          {
+            "nom": "Graciela Borges",
+            "rol": "INT",
+            "avatar": "563a4a772916c53546d2bec8",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 4880,
+            "impor": 2
+          },
+          {
+            "nom": "Jorge Marrale",
+            "rol": "INT",
+            "avatar": "564cab8388bf77787311f241",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5891,
+            "impor": 7
+          },
+          {
+            "nom": "Belén Blanco",
+            "rol": "ELS",
+            "avatar": "57bdf1a42916c530fe066ec4",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 5720,
+            "impor": 3
+          },
+          {
+            "nom": "Carlos Portaluppi",
+            "rol": "ELS",
+            "avatar": "56b3a7bb88bf77718ed08e4d",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 6522,
+            "impor": 8
+          }
+        ]
+      },
+      "rVotan": 65,
+      "foto": "563a52862916c53546d2c2e3",
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "Inspirada en episodios de la vida del Padre Mario Pantaleo, un cura nacido en Pistoia, Italia, y radicado en la Argentina, que guiado por los misterios de la fe tenía \"poderes\" para diagnosticar y sanar enfermedades a traves de la imposición de manos.",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        },
+        {
+          "nom": "Biográfica",
+          "style": "genero-INCAA-3",
+          "ab": "B",
+          "stylesec": "genero-INCAA-3-sec",
+          "home": false
+        }
+      ],
+      "ban": "5a28428e88bf770b6df2927d",
+      "mouseover": "5641e47588bf7729806bb4a0"
+    },
+    {
+      "dura": 96,
+      "an": "1985",
+      "gens": [
+        {
+          "nom": "Comedia",
+          "style": "genero-INCAA-5",
+          "ab": "C",
+          "stylesec": "genero-INCAA-5-sec",
+          "home": false
+        },
+        {
+          "nom": "Comedia Dramática",
+          "style": "genero-INCAA-24",
+          "ab": "CD",
+          "stylesec": "genero-INCAA-24-sec",
+          "home": false
+        }
+      ],
+      "id": {
+        "source": "INCAA",
+        "sid": 1307
+      },
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.8,
+      "afi": "56d5d56888bf7761113b9cd6",
+      "tit": "Esperando la carroza",
+      "pers": {
+        "01": [
+          {
+            "nom": "Alejandro Doria",
+            "rol": "DIR",
+            "avatar": "57ae18622916c530fe066e26",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 5224,
+            "impor": 1
+          },
+          {
+            "nom": "Antonio Gasalla",
+            "rol": "INT",
+            "avatar": "563a5a4e2916c53546d2c47c",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5209,
+            "impor": 2
+          },
+          {
+            "nom": "China Zorrilla",
+            "rol": "INT",
+            "avatar": "56d5e86b88bf7761113b9cdb",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5626,
+            "impor": 8
+          },
+          {
+            "nom": "Luis Brandoni",
+            "rol": "INT",
+            "avatar": "563a510b2916c53546d2c19a",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5121,
+            "impor": 10
+          },
+          {
+            "nom": "Julio De Grazia",
+            "rol": "INT",
+            "avatar": "564cab8988bf77787311f261",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5271,
+            "impor": 12
+          }
+        ]
+      },
+      "rVotan": 1494,
+      "foto": "56d5d56a88bf7761113b9cd7",
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "Mamá Cora, una mujer de casi 80 años, tiene tres hijos y una hija. Ella vive con uno de ellos que pasa serios apuros económicos. Un día la familia se reúne para celebrar una comida de aniversario y es en ese momento cuando se plantea el gran dilema: ¿Quién se hará cargo de ella llevándosela a su casa? El peliagudo asunto se complica cuando reciben la noticia de que la anciana se ha tirado a las vías del tren.",
+      "visua": 9125,
+      "ban": "564e04ed88bf77787311f2a7",
+      "mouseover": "56d5d56b88bf7761113b9cd9"
+    },
+    {
+      "dura": 103,
+      "an": "2009",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        },
+        {
+          "nom": "Policial",
+          "style": "genero-INCAA-12",
+          "ab": "P",
+          "stylesec": "genero-INCAA-12-sec",
+          "home": false
+        }
+      ],
+      "id": {
+        "source": "INCAA",
+        "sid": 1320
+      },
+      "vista": {
+        "completa": true,
+        "secsTranscu": 0,
+        "secsDura": 6174,
+        "porcen": 100,
+        "fModif": "2016-06-20T02:24:27.087926"
+      },
+      "rProme": 4,
+      "afi": "563a5a4c2916c53546d2c463",
+      "tit": "Carancho",
+      "pers": {
+        "01": [
+          {
+            "nom": "Pablo Trapero",
+            "rol": "DIR",
+            "avatar": "563a48f82916c53546d2be8b",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6391,
+            "impor": 1
+          },
+          {
+            "nom": "Ricardo Darín",
+            "rol": "INT",
+            "avatar": "563a510c2916c53546d2c1a2",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5404,
+            "impor": 2
+          },
+          {
+            "nom": "Martina Gusmán",
+            "rol": "INT",
+            "avatar": "563a54572916c53546d2c37d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6831,
+            "impor": 4
+          },
+          {
+            "nom": "Carlos Weber",
+            "rol": "INT",
+            "avatar": "56495a8688bf77787311f175",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8303,
+            "impor": 5
+          },
+          {
+            "nom": "Alejandro Fadel",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 6
+          }
+        ]
+      },
+      "rVotan": 748,
+      "foto": "563a5a4c2916c53546d2c464",
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "Sosa, un abogado especialista en accidentes de tránsito, a punto de recuperar su matrícula. Se mueve entre guardias de hospitales, servicios de emergencias y comisarías en busca de posibles clientes. Ahora trabaja para una supuesta fundación de ayuda a las víctimas que en realidad es la pantalla para un turbio estudio jurídico.",
+      "visua": 5306,
+      "ban": "5654938388bf77787311f3cd",
+      "mouseover": "5641df1888bf7729806bb3cf"
+    },
+    {
+      "dura": 95,
+      "an": "2005",
+      "gens": [
+        {
+          "nom": "Comedia",
+          "style": "genero-INCAA-5",
+          "ab": "C",
+          "stylesec": "genero-INCAA-5-sec",
+          "home": false
+        }
+      ],
+      "id": {
+        "source": "INCAA",
+        "sid": 613
+      },
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.4,
+      "afi": "563a52852916c53546d2c2dd",
+      "tit": "La suerte está echada",
+      "pers": {
+        "01": [
+          {
+            "nom": "Sebastián Borensztein",
+            "rol": "DIR",
+            "avatar": "563a52852916c53546d2c2db",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6567,
+            "impor": 2
+          },
+          {
+            "nom": "Marcelo Mazzarello",
+            "rol": "INT",
+            "avatar": "56495fcd88bf77787311f19c",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6231,
+            "impor": 1
+          },
+          {
+            "nom": "Gastón Pauls",
+            "rol": "INT",
+            "avatar": "563a527b2916c53546d2c29d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6429,
+            "impor": 3
+          },
+          {
+            "nom": "Julieta Cardinali",
+            "rol": "INT",
+            "avatar": "563a52852916c53546d2c2dc",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6017,
+            "impor": 6
+          },
+          {
+            "nom": "José Gallardou",
+            "rol": "ELS",
+            "avatar": "580fb42d88bf77058a5b77d7",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 10669,
+            "impor": 5
+          }
+        ]
+      },
+      "rVotan": 968,
+      "foto": "563a52852916c53546d2c2df",
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "Dos medio hermanos por parte de padre, se unen tras la muerte de éste después de muchos años de distancia.",
+      "visua": 8191,
+      "ban": "563a52852916c53546d2c2de",
+      "mouseover": "5641e46d88bf7729806bb49c"
+    },
+    {
+      "dura": 109,
+      "an": "2000",
+      "gens": [
+        {
+          "nom": "Policial",
+          "style": "genero-INCAA-12",
+          "ab": "P",
+          "stylesec": "genero-INCAA-12-sec",
+          "home": false
+        }
+      ],
+      "id": {
+        "source": "INCAA",
+        "sid": 627
+      },
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.8,
+      "afi": "563a528b2916c53546d2c2f1",
+      "tit": "Nueve reinas",
+      "pers": {
+        "01": [
+          {
+            "nom": "Fabián Bielinsky",
+            "rol": "DIR",
+            "avatar": "563a52792916c53546d2c28e",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6390,
+            "impor": 2
+          },
+          {
+            "nom": "Gastón Pauls",
+            "rol": "INT",
+            "avatar": "563a527b2916c53546d2c29d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6429,
+            "impor": 1
+          },
+          {
+            "nom": "Leticia Brédice",
+            "rol": "INT",
+            "avatar": "56495fcc88bf77787311f195",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5608,
+            "impor": 4
+          },
+          {
+            "nom": "Ricardo Darín",
+            "rol": "INT",
+            "avatar": "563a510c2916c53546d2c1a2",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5404,
+            "impor": 5
+          },
+          {
+            "nom": "Fabián Bielinsky",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 6
+          }
+        ]
+      },
+      "rVotan": 1501,
+      "foto": "563a528b2916c53546d2c2f2",
+      "tags": [
+        "color",
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "Dos mediocres estafadores se conocen en una estación de servicio una madrugada y atravesarán juntos el día intentando dar un golpe maestro.",
+      "visua": 7948,
+      "ban": "566b467488bf777873122d87",
+      "mouseover": "5641e54188bf7729806bb4e8"
+    }
+  ],
+  "canti": 24,
+  "objsturi": "https://img.cine.ar/image",
+  "pag": 1,
+  "titulo": "Películas",
+  "order": [
+    {
+      "nom": "Destacadas",
+      "id": "desta"
+    },
+    {
+      "nom": "Título (alfabético)",
+      "id": "alfa"
+    },
+    {
+      "nom": "Año: descendente",
+      "id": "an"
+    },
+    {
+      "nom": "Año: ascendente",
+      "id": "ian"
+    },
+    {
+      "nom": "Novedades",
+      "id": "falta"
+    },
+    {
+      "nom": "Mejor calificadas",
+      "id": "voto"
+    }
+  ]
+}
