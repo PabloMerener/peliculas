@@ -21,8 +21,9 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::resource('/movies', 'MovieController');
 
-Route::get('/uploadMoviesFromCineAr', 'UploadFromSourceController@movies');
 Route::get('/uploadGendersFromCineAr', 'UploadFromSourceController@genders');
+Route::get('/uploadPeopleFromCineAr', 'UploadFromSourceController@people');
+Route::get('/uploadMoviesFromCineAr', 'UploadFromSourceController@movies');
 
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
