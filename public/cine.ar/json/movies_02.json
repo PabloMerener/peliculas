@@ -1,0 +1,2417 @@
+{
+  "playeruri": "https://player.cine.ar/odeon",
+  "playerurimobile": "https://player.cine.ar/odeon",
+  "prods": [
+    {
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4,
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "Corazón Muerto",
+      "afi": "59ce7ed72916c529818a2432",
+      "visua": 207,
+      "dura": 75,
+      "an": "2014",
+      "pers": {
+        "01": [
+          {
+            "nom": "Mariano Cattaneo",
+            "rol": "DIR",
+            "avatar": "59ce8c8a88bf770b6df28e12",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 9982,
+            "impor": 1
+          },
+          {
+            "nom": "Leandro Cóccaro",
+            "rol": "INT",
+            "avatar": "591b1b092916c56e6bcea9fd",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8003,
+            "impor": 4
+          },
+          {
+            "nom": "Ariadna Asturzzi",
+            "rol": "INT",
+            "avatar": "59ce8c8a88bf770b6df28e0e",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8698,
+            "impor": 9
+          },
+          {
+            "nom": "Galit Gurovich",
+            "rol": "INT",
+            "avatar": "59ce8c8a88bf770b6df28e10",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6735,
+            "impor": 11
+          },
+          {
+            "nom": "Germán Baudino",
+            "rol": "ELS",
+            "avatar": "5992f8712916c529818a20e2",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 8253,
+            "impor": 2
+          }
+        ]
+      },
+      "sino": "Dos hombres secuestran a la hija de la empresaria Claudia Villegas. La llevan fuera de la ciudad, donde la mantienen encerrada mientras esperan que el Jefe les indique los pasos a seguir; pero el Jefe descubre que la hija de Villegas nunca fue secuestrada.",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        },
+        {
+          "nom": "Suspenso",
+          "style": "genero-INCAA-15",
+          "ab": "S",
+          "stylesec": "genero-INCAA-15-sec",
+          "home": false
+        }
+      ],
+      "rVotan": 42,
+      "foto": "59ce7ed82916c529818a2433",
+      "mouseover": "561d61072916c53546d2bd11",
+      "id": {
+        "source": "INCAA",
+        "sid": 4374
+      }
+    },
+    {
+      "foto": "5a1f0a2d88bf770b6df29215",
+      "tags": [
+        "larg",
+        "publi",
+        "tvod",
+        "arsat"
+      ],
+      "dura": 102,
+      "an": "2017",
+      "sino": "Segunda parte de este documental que nace del juicio de censura contra Awka Liwen, por mencionar a una poderosa familia de la dictadura.\r\nPara explicar esta aberración, la obra narra y analiza la historia económica del país a través de la historia de los Martínez de Hoz.\r\n#CINEAREstrenos",
+      "tvod": {
+        "disp": {
+          "hs": 48,
+          "days": 15
+        },
+        "csts": [
+          {
+            "des": null,
+            "ccy": "ARS",
+            "val": 30
+          }
+        ],
+        "tags": [
+          "estr"
+        ]
+      },
+      "id": {
+        "source": "INCAA",
+        "sid": 4373
+      },
+      "visua": 3,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 5,
+      "afi": "5a1f0a2c88bf770b6df29214",
+      "tit": "Martínez de Hoz: parte 2",
+      "gens": [
+        {
+          "nom": "Documental",
+          "style": "genero-INCAA-6",
+          "ab": "D",
+          "stylesec": "genero-INCAA-6-sec",
+          "home": false
+        }
+      ],
+      "pers": {
+        "01": [
+          {
+            "nom": "Mariano Aiello",
+            "rol": "DIR",
+            "avatar": "5a1f06f088bf770b6df2920f",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 11077,
+            "impor": 1
+          },
+          {
+            "nom": "Osvaldo Bayer",
+            "rol": "INT",
+            "avatar": "5a1f06f088bf770b6df29210",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 7286,
+            "impor": 3
+          },
+          {
+            "nom": "Daniel Cohn-Bendit",
+            "rol": "INT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6682,
+            "impor": 5
+          },
+          {
+            "nom": "Eduardo Basualdo",
+            "rol": "INT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5340,
+            "impor": 6
+          },
+          {
+            "nom": "Alfredo Zaiat",
+            "rol": "INT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 4507,
+            "impor": 7
+          }
+        ]
+      },
+      "rVotan": 1,
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "foto": "5a1f06f088bf770b6df29212",
+      "tags": [
+        "larg",
+        "publi",
+        "tvod",
+        "arsat"
+      ],
+      "dura": 101,
+      "an": "2017",
+      "sino": "El documental nace del juicio de censura contra Awka Liwen, por mencionar a una poderosa familia de la dictadura.\r\nPara explicar esta aberración, la obra narra y analiza la historia económica del país a través de la historia de los Martínez de Hoz. #CINEAREstrenos",
+      "tvod": {
+        "disp": {
+          "hs": 48,
+          "days": 15
+        },
+        "csts": [
+          {
+            "des": null,
+            "ccy": "ARS",
+            "val": 30
+          }
+        ],
+        "tags": [
+          "estr"
+        ]
+      },
+      "id": {
+        "source": "INCAA",
+        "sid": 4372
+      },
+      "visua": 9,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 5,
+      "afi": "5a1f06f088bf770b6df29211",
+      "tit": "Martínez de Hoz: parte 1",
+      "gens": [
+        {
+          "nom": "Documental",
+          "style": "genero-INCAA-6",
+          "ab": "D",
+          "stylesec": "genero-INCAA-6-sec",
+          "home": false
+        }
+      ],
+      "pers": {
+        "01": [
+          {
+            "nom": "Mariano Aiello",
+            "rol": "DIR",
+            "avatar": "5a1f06f088bf770b6df2920f",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 11077,
+            "impor": 1
+          },
+          {
+            "nom": "Osvaldo Bayer",
+            "rol": "INT",
+            "avatar": "5a1f06f088bf770b6df29210",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 7286,
+            "impor": 2
+          },
+          {
+            "nom": "Daniel Cohn-Bendit",
+            "rol": "INT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6682,
+            "impor": 5
+          },
+          {
+            "nom": "Eduardo Basualdo",
+            "rol": "INT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5340,
+            "impor": 6
+          },
+          {
+            "nom": "Alfredo Zaiat",
+            "rol": "INT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 4507,
+            "impor": 7
+          }
+        ]
+      },
+      "rVotan": 3,
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "foto": "598895402916c529818a205a",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 102,
+      "an": "2014",
+      "sino": "Rockumental que narra la historia de Alberto Zamarbide, el primer cantante de Heavy Metal de Argentina.  La película cuenta, repasando su vida, la reconciliación de un artista con su pasado y un nuevo comenzar en su carrera, con 54 años.\r\n",
+      "gens": [
+        {
+          "nom": "Documental",
+          "style": "genero-INCAA-6",
+          "ab": "D",
+          "stylesec": "genero-INCAA-6-sec",
+          "home": false
+        },
+        {
+          "nom": "Musical",
+          "style": "genero-INCAA-11",
+          "ab": "M",
+          "stylesec": "genero-INCAA-11-sec",
+          "home": false
+        }
+      ],
+      "id": {
+        "source": "INCAA",
+        "sid": 4363
+      },
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.7,
+      "afi": "598895402916c529818a2058",
+      "tit": "Relámpago en la oscuridad",
+      "visua": 734,
+      "pers": {
+        "01": [
+          {
+            "nom": "Germán Fernández",
+            "rol": "DIR",
+            "avatar": "5989c49e88bf770b6df28a38",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6212,
+            "impor": 1
+          },
+          {
+            "nom": "Pablo Montllau",
+            "rol": "DIR",
+            "avatar": "5989c49e88bf770b6df28a37",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 4296,
+            "impor": 5
+          },
+          {
+            "nom": "Alberto Zamarbide",
+            "rol": "INT",
+            "avatar": "5988a4732916c529818a2062",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 4761,
+            "impor": 4
+          },
+          {
+            "nom": "Ricardo Iorio",
+            "rol": "INT",
+            "avatar": "56d7487988bf7761113b9ceb",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 10006,
+            "impor": 7
+          },
+          {
+            "nom": "Norberto \"Ruso\" Verea",
+            "rol": "INT",
+            "avatar": "56532afb88bf77787311f338",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 9569,
+            "impor": 8
+          }
+        ]
+      },
+      "rVotan": 124,
+      "ban": "5989df3588bf770b6df28a3d",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4,
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "Al fin del mundo",
+      "afi": "5997319b88bf770b6df28af4",
+      "gens": [
+        {
+          "nom": "Documental",
+          "style": "genero-INCAA-6",
+          "ab": "D",
+          "stylesec": "genero-INCAA-6-sec",
+          "home": false
+        }
+      ],
+      "dura": 80,
+      "an": "2015",
+      "pers": {
+        "01": [
+          {
+            "nom": "Franca González",
+            "rol": "DIR",
+            "avatar": "563a6a132916c53546d2c7f8",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 8315,
+            "impor": 1
+          },
+          {
+            "nom": "Franca G. González",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 3
+          },
+          {
+            "nom": "Franca G. González",
+            "rol": "FOT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Dirección de fotografía",
+            "rolorden": "00013",
+            "grupo": "02",
+            "sid": null,
+            "impor": 4
+          },
+          {
+            "nom": "Guillermo Pesoa",
+            "rol": "MUS",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Música",
+            "rolorden": "00014",
+            "grupo": "02",
+            "sid": null,
+            "impor": 5
+          },
+          {
+            "nom": "Nerina Valido",
+            "rol": "SON",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Sonido",
+            "rolorden": "00015",
+            "grupo": "02",
+            "sid": null,
+            "impor": 6
+          }
+        ]
+      },
+      "sino": "En un pueblito del extremo sur argentino adonde casi nadie va para quedarse, donde el frío y el viento entran por todas las rendijas y la nieve cubre los alambrados, un hombre busca que la gente no se vaya a través de un nuevo intento: un carnaval en pleno invierno.\r\n",
+      "rVotan": 33,
+      "foto": "599702032916c529818a2125",
+      "mouseover": "561d61072916c53546d2bd11",
+      "id": {
+        "source": "INCAA",
+        "sid": 4361
+      },
+      "visua": 275
+    },
+    {
+      "foto": "59de25992916c529818a2528",
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4,
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "Los adioses",
+      "afi": "59de25992916c529818a2527",
+      "gens": [
+        {
+          "nom": "Documental",
+          "style": "genero-INCAA-6",
+          "ab": "D",
+          "stylesec": "genero-INCAA-6-sec",
+          "home": false
+        }
+      ],
+      "dura": 63,
+      "visua": 48,
+      "pers": {
+        "01": [
+          {
+            "nom": "Carole Laganière",
+            "rol": "DIR",
+            "avatar": "59de25992916c529818a252a",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 4258,
+            "impor": 1
+          },
+          {
+            "nom": "Carole Laganiére",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 2
+          },
+          {
+            "nom": "Franca G. González",
+            "rol": "FOT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Dirección de fotografía",
+            "rolorden": "00013",
+            "grupo": "02",
+            "sid": null,
+            "impor": 3
+          },
+          {
+            "nom": "Luc Sicard",
+            "rol": "MUS",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Música",
+            "rolorden": "00014",
+            "grupo": "02",
+            "sid": null,
+            "impor": 4
+          },
+          {
+            "nom": "Lucas Meyer",
+            "rol": "SON",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Sonido",
+            "rolorden": "00015",
+            "grupo": "02",
+            "sid": null,
+            "impor": 5
+          }
+        ]
+      },
+      "sino": "La Maison Michel Sarrazin es una casa adonde la gente va a morir. La mirada de Carole Laganière se ocupa de recoger los gestos que todavía ligan la muerte con la vida.",
+      "rVotan": 4,
+      "an": "2014",
+      "mouseover": "561d61072916c53546d2bd11",
+      "id": {
+        "source": "INCAA",
+        "sid": 4360
+      }
+    },
+    {
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.2,
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "Totem",
+      "afi": "59b6ea9688bf770b6df28cb7",
+      "gens": [
+        {
+          "nom": "Documental",
+          "style": "genero-INCAA-6",
+          "ab": "D",
+          "stylesec": "genero-INCAA-6-sec",
+          "home": false
+        }
+      ],
+      "dura": 60,
+      "an": "2013",
+      "pers": {
+        "01": [
+          {
+            "nom": "Franca González",
+            "rol": "DIR",
+            "avatar": "563a6a132916c53546d2c7f8",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 8315,
+            "impor": 1
+          },
+          {
+            "nom": "Franca G. González",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 4
+          },
+          {
+            "nom": "Carole Laganière",
+            "rol": "ADI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Asistente de dirección",
+            "rolorden": "00012",
+            "grupo": "02",
+            "sid": null,
+            "impor": 5
+          },
+          {
+            "nom": "Franca G. González",
+            "rol": "FOT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Dirección de fotografía",
+            "rolorden": "00013",
+            "grupo": "02",
+            "sid": null,
+            "impor": 6
+          },
+          {
+            "nom": "Javier Estrin",
+            "rol": "MUS",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Música",
+            "rolorden": "00014",
+            "grupo": "02",
+            "sid": null,
+            "impor": 7
+          }
+        ]
+      },
+      "sino": "Stan Hunt es un tallador de cedro rojo. Aprendió ese arte gracias a su padre y a su abuelo, maestros escultores del pueblo Kwakiutl, Canadá. Sueña con la que será la obra más trascendental de su vida: transformar un cedro en un tótem mitológico. ",
+      "rVotan": 9,
+      "foto": "59b6ea9688bf770b6df28cb6",
+      "mouseover": "561d61072916c53546d2bd11",
+      "id": {
+        "source": "INCAA",
+        "sid": 4359
+      },
+      "visua": 39
+    },
+    {
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3.4,
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "Selva",
+      "afi": "59bc1db988bf770b6df28d00",
+      "visua": 383,
+      "dura": 75,
+      "an": "2016",
+      "pers": {
+        "01": [
+          {
+            "nom": "Martín Rieznik",
+            "rol": "DIR",
+            "avatar": "59bc17f088bf770b6df28cfe",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 7060,
+            "impor": 2
+          },
+          {
+            "nom": "Mariano Kevorkian",
+            "rol": "INT",
+            "avatar": "59bc17f088bf770b6df28cfd",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 4388,
+            "impor": 3
+          },
+          {
+            "nom": "Lola Banfi",
+            "rol": "INT",
+            "avatar": "59bc17f088bf770b6df28cfc",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5125,
+            "impor": 6
+          },
+          {
+            "nom": "Martin Rieznik",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 7
+          },
+          {
+            "nom": "Nelson Jimenez",
+            "rol": "ADI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Asistente de dirección",
+            "rolorden": "00012",
+            "grupo": "02",
+            "sid": null,
+            "impor": 8
+          }
+        ]
+      },
+      "sino": "Lucas cree que en la naturaleza se esconde la esencia de la vida. Buscando aislarse de la sociedad moderna se encontrará consigo mismo.",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "rVotan": 34,
+      "foto": "59bfdea82916c529818a2350",
+      "mouseover": "561d61072916c53546d2bd11",
+      "id": {
+        "source": "INCAA",
+        "sid": 4349
+      }
+    },
+    {
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 2.7,
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "El recuento de los daños",
+      "afi": "59d38d212916c529818a2481",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "dura": 78,
+      "an": "2010",
+      "pers": {
+        "01": [
+          {
+            "nom": "Inés de Oliveira Cézar",
+            "rol": "DIR",
+            "avatar": "563a52762916c53546d2c272",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6278,
+            "impor": 1
+          },
+          {
+            "nom": "Eva Bianco",
+            "rol": "INT",
+            "avatar": "59d38d212916c529818a2484",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6315,
+            "impor": 3
+          },
+          {
+            "nom": "Santiago Gobernori",
+            "rol": "INT",
+            "avatar": "563a49b02916c53546d2beb4",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 9433,
+            "impor": 8
+          },
+          {
+            "nom": "Marcelo D'Andrea",
+            "rol": "ELS",
+            "avatar": "56cc84b088bf770685c9ec1f",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 6418,
+            "impor": 2
+          },
+          {
+            "nom": "Agustina Muñoz",
+            "rol": "ELS",
+            "avatar": "59ad9f5b88bf770b6df28c3f",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 7373,
+            "impor": 7
+          }
+        ]
+      },
+      "sino": "Un joven y una mujer que acaba de enviudar, se encuentran en una relación impensada. El joven ignora la posibilidad de que esa mujer sea su madre y el muerto, su padre.",
+      "rVotan": 17,
+      "foto": "59d38d212916c529818a2482",
+      "mouseover": "561d61072916c53546d2bd11",
+      "id": {
+        "source": "INCAA",
+        "sid": 4348
+      },
+      "visua": 164
+    },
+    {
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3.2,
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "Cassandra",
+      "afi": "59ad9f5a88bf770b6df28c3c",
+      "visua": 124,
+      "dura": 88,
+      "an": "2012",
+      "pers": {
+        "01": [
+          {
+            "nom": "Inés de Oliveira Cézar",
+            "rol": "DIR",
+            "avatar": "563a52762916c53546d2c272",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6278,
+            "impor": 1
+          },
+          {
+            "nom": "Agustina Muñoz",
+            "rol": "INT",
+            "avatar": "59ad9f5b88bf770b6df28c3f",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 7373,
+            "impor": 2
+          },
+          {
+            "nom": "Alan Pauls",
+            "rol": "INT",
+            "avatar": "59aea16688bf770b6df28c5a",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 7999,
+            "impor": 5
+          },
+          {
+            "nom": "Edgardo Cozarinsky",
+            "rol": "INT",
+            "avatar": "563a52652916c53546d2c216",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 5820,
+            "impor": 7
+          },
+          {
+            "nom": "Lalo Rotavería",
+            "rol": "ELS",
+            "avatar": "59aea16688bf770b6df28c5b",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 6925,
+            "impor": 4
+          }
+        ]
+      },
+      "sino": "Las palabras, las fotos, los discursos, ¿son medios suficientes para describir una realidad compleja, cruda e inabarcable? Estas preguntas sin respuesta persiguen a Cassandra durante su viaje por el Impenetrable chaqueño como cronista principiante de un medio de comunicación.",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "rVotan": 14,
+      "foto": "59ad9f5a88bf770b6df28c3d",
+      "mouseover": "561d61072916c53546d2bd11",
+      "id": {
+        "source": "INCAA",
+        "sid": 4347
+      }
+    },
+    {
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4,
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "Diamante",
+      "afi": "59b6ea9688bf770b6df28cad",
+      "visua": 71,
+      "dura": 61,
+      "an": "2013",
+      "pers": {
+        "01": [
+          {
+            "nom": "Emiliano Grieco",
+            "rol": "DIR",
+            "avatar": "59b8026a88bf770b6df28cc6",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 8375,
+            "impor": 3
+          },
+          {
+            "nom": "Emiliano Grieco",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 5
+          },
+          {
+            "nom": "Antonella Frisone",
+            "rol": "ADI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Asistente de dirección",
+            "rolorden": "00012",
+            "grupo": "02",
+            "sid": null,
+            "impor": 6
+          },
+          {
+            "nom": "Emiliano Grieco",
+            "rol": "FOT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Dirección de fotografía",
+            "rolorden": "00013",
+            "grupo": "02",
+            "sid": null,
+            "impor": 7
+          },
+          {
+            "nom": "Javier Farina",
+            "rol": "SON",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Sonido",
+            "rolorden": "00015",
+            "grupo": "02",
+            "sid": null,
+            "impor": 8
+          }
+        ]
+      },
+      "sino": "Ezequiel vive a orillas del río Paraná, crece en una aldea de tradición pesquera. Quiere ser pescador, aprende observando a su padre y a su abuelo quienes le enseñan a pescar y a cazar.",
+      "gens": [
+        {
+          "nom": "Documental",
+          "style": "genero-INCAA-6",
+          "ab": "D",
+          "stylesec": "genero-INCAA-6-sec",
+          "home": false
+        },
+        {
+          "nom": "Biográfica",
+          "style": "genero-INCAA-3",
+          "ab": "B",
+          "stylesec": "genero-INCAA-3-sec",
+          "home": false
+        }
+      ],
+      "rVotan": 9,
+      "foto": "59b6ea9688bf770b6df28cae",
+      "mouseover": "561d61072916c53546d2bd11",
+      "id": {
+        "source": "INCAA",
+        "sid": 4288
+      }
+    },
+    {
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4,
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "Liberando América",
+      "afi": "5995aae888bf770b6df28ad8",
+      "visua": 125,
+      "dura": 27,
+      "an": "2017",
+      "pers": {
+        "01": [
+          {
+            "nom": "Cristian Delicia",
+            "rol": "DIR",
+            "avatar": "59d3c4652916c529818a248a",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 8597,
+            "impor": 2
+          },
+          {
+            "nom": "Cristian Delicia",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 5
+          },
+          {
+            "nom": "Alejandro Schonfeld",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 6
+          },
+          {
+            "nom": "Lola Dacal",
+            "rol": "ADI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Asistente de dirección",
+            "rolorden": "00012",
+            "grupo": "02",
+            "sid": null,
+            "impor": 7
+          },
+          {
+            "nom": "Cristian Delicia",
+            "rol": "FOT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Dirección de fotografía",
+            "rolorden": "00013",
+            "grupo": "02",
+            "sid": null,
+            "impor": 8
+          }
+        ]
+      },
+      "sino": "Liberando América, es un documental filmado en la Cordillera de Los Andes, en los mismos lugares por donde pasó el Ejercito del General San Martín para liberar Chile primero y luego el Perú de la Corona española. El 2017 es el año del Bicentenario de la mayor gesta militar que el Continente Americano ha visto realizarse en sus tierras: El Cruce de Los Andes. Miles de hombres, mujeres, animales, municiones y toneladas de provisiones fueron trasladadas a pie a través de la mayor cadena montañosa del mundo, luego de las del Himalaya, con un solo fin: la libertad de Argentina, Chile y Perú.",
+      "gens": [
+        {
+          "nom": "Documental",
+          "style": "genero-INCAA-6",
+          "ab": "D",
+          "stylesec": "genero-INCAA-6-sec",
+          "home": false
+        }
+      ],
+      "rVotan": 15,
+      "foto": "5991cdb42916c529818a20dd",
+      "mouseover": "561d61072916c53546d2bd11",
+      "id": {
+        "source": "INCAA",
+        "sid": 4268
+      }
+    },
+    {
+      "foto": "59adab6888bf770b6df28c48",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 69,
+      "an": "2013",
+      "sino": "Erasmo Chambi es un inmigrante boliviano que sobrevive dando espectáculos de lucha libre. En su país fue \"El Ciclón\", un luchador legendario. ",
+      "gens": [
+        {
+          "nom": "Documental",
+          "style": "genero-INCAA-6",
+          "ab": "D",
+          "stylesec": "genero-INCAA-6-sec",
+          "home": false
+        },
+        {
+          "nom": "Biográfica",
+          "style": "genero-INCAA-3",
+          "ab": "B",
+          "stylesec": "genero-INCAA-3-sec",
+          "home": false
+        }
+      ],
+      "id": {
+        "source": "INCAA",
+        "sid": 4267
+      },
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.3,
+      "afi": "59ada56b88bf770b6df28c47",
+      "tit": "La paz en Buenos Aires",
+      "visua": 59,
+      "pers": {
+        "01": [
+          {
+            "nom": "Marcelo Charras",
+            "rol": "DIR",
+            "avatar": "59aea16688bf770b6df28c5c",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 9046,
+            "impor": 2
+          },
+          {
+            "nom": "Marcelo Charras",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 4
+          },
+          {
+            "nom": "Guido Lublinsky",
+            "rol": "FOT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Dirección de fotografía",
+            "rolorden": "00013",
+            "grupo": "02",
+            "sid": null,
+            "impor": 5
+          },
+          {
+            "nom": "Javier Farina",
+            "rol": "SON",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Sonido",
+            "rolorden": "00015",
+            "grupo": "02",
+            "sid": null,
+            "impor": 6
+          },
+          {
+            "nom": "Marcelo Charras",
+            "rol": "MON",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Montaje",
+            "rolorden": "00016",
+            "grupo": "02",
+            "sid": null,
+            "impor": 7
+          }
+        ]
+      },
+      "rVotan": 11,
+      "ban": "59aee97288bf770b6df28c5f",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "dura": 83,
+      "an": "2017",
+      "tvod": {
+        "rentals": [
+          {
+            "csts": [
+              {
+                "ccy": "ARS",
+                "cty": [
+                  "AR"
+                ],
+                "val": 30,
+                "tags": [
+                  "estr"
+                ]
+              }
+            ],
+            "geo": {
+              "inc": [
+                "AR"
+              ]
+            },
+            "id": 135,
+            "per": {
+              "disp": {
+                "hs": 48,
+                "days": 15
+              },
+              "in": "2017-06-28T23:59:00",
+              "out": "2017-08-24T17:00:00"
+            },
+            "act": false
+          },
+          {
+            "csts": [
+              {
+                "ccy": "ARS",
+                "cty": [
+                  "AR"
+                ],
+                "val": 30,
+                "tags": [
+                  "estr"
+                ]
+              }
+            ],
+            "geo": {
+              "inc": [
+                "AR"
+              ]
+            },
+            "id": 167,
+            "per": {
+              "disp": {
+                "hs": 48,
+                "days": 15
+              },
+              "in": "2017-09-06T23:59:00",
+              "out": "2017-10-04T23:59:00"
+            },
+            "act": false
+          },
+          {
+            "csts": [
+              {
+                "ccy": "ARS",
+                "cty": [
+                  "AR"
+                ],
+                "val": 30,
+                "tags": [
+                  "estr"
+                ]
+              }
+            ],
+            "geo": {
+              "inc": [
+                "AR"
+              ]
+            },
+            "id": 168,
+            "per": {
+              "disp": {
+                "hs": 48,
+                "days": 15
+              },
+              "in": "2017-09-06T23:59:00",
+              "out": "2017-10-05T23:59:00"
+            },
+            "act": true
+          }
+        ]
+      },
+      "id": {
+        "source": "INCAA",
+        "sid": 4245
+      },
+      "visua": 494,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.3,
+      "afi": "5953fac988bf77058a5b8b97",
+      "tit": "Yo se lo que envenena",
+      "pers": {
+        "01": [
+          {
+            "nom": "Federico Sosa",
+            "rol": "DIR",
+            "avatar": "568ffa2088bf77787312368c",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 9613,
+            "impor": 1
+          },
+          {
+            "nom": "Federico Liss",
+            "rol": "INT",
+            "avatar": "59540e712916c56e6bceacd4",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 9854,
+            "impor": 3
+          },
+          {
+            "nom": "Gustavo Pardi",
+            "rol": "INT",
+            "avatar": "56d85eb488bf7761113b9d06",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 10010,
+            "impor": 6
+          },
+          {
+            "nom": "Sergio Podeley",
+            "rol": "INT",
+            "avatar": "59540bae2916c56e6bceacd2",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6871,
+            "impor": 8
+          },
+          {
+            "nom": "Valeria Correa",
+            "rol": "ELS",
+            "avatar": "56b0e0ad88bf77718ed08e17",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 8547,
+            "impor": 2
+          }
+        ]
+      },
+      "rVotan": 113,
+      "foto": "5953fac988bf77058a5b8b99",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "sino": "El sueño de Iván es conocer a Ricardo Iorio, el de Chacho es triunfar como actor y el de Rama es conquistar a Lucy. A los tres los une una única pasión: el metal. ",
+      "gens": [
+        {
+          "nom": "Comedia",
+          "style": "genero-INCAA-5",
+          "ab": "C",
+          "stylesec": "genero-INCAA-5-sec",
+          "home": false
+        },
+        {
+          "nom": "Musical",
+          "style": "genero-INCAA-11",
+          "ab": "M",
+          "stylesec": "genero-INCAA-11-sec",
+          "home": false
+        }
+      ],
+      "ban": "5a39478b2916c529818a28ce",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "foto": "599702032916c529818a2127",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 107,
+      "an": "2012",
+      "sino": "En polvorientas calles que son parte de inaccesibles barriadas de la zona sur del gran Buenos Aires, transitan dos músicos veteranos dispuestos a llevar el ritmo del tango al extremo, fusionandolo con acordes de rock thrash.",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "id": {
+        "source": "INCAA",
+        "sid": 4243
+      },
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3.9,
+      "afi": "5997319a88bf770b6df28af2",
+      "tit": "Fango",
+      "visua": 252,
+      "pers": {
+        "01": [
+          {
+            "nom": "José Celestino Campusano",
+            "rol": "DIR",
+            "avatar": "59889e4e88bf770b6df28a2a",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 7620,
+            "impor": 1
+          },
+          {
+            "nom": "Oscar Génova",
+            "rol": "INT",
+            "avatar": "5991bc4a88bf770b6df28a8d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 7625,
+            "impor": 3
+          },
+          {
+            "nom": "Nadia Batista",
+            "rol": "INT",
+            "avatar": "5997319b88bf770b6df28af9",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8694,
+            "impor": 6
+          },
+          {
+            "nom": "Claudio Miño",
+            "rol": "INT",
+            "avatar": "5997319b88bf770b6df28afa",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8911,
+            "impor": 7
+          },
+          {
+            "nom": "Olga Obregón",
+            "rol": "INT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8912,
+            "impor": 8
+          }
+        ]
+      },
+      "rVotan": 27,
+      "ban": "599c59002916c529818a2173",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "foto": "599c40e588bf770b6df28b3f",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 84,
+      "an": "2014",
+      "sino": "Agustín regresa al pueblo de horizonte de sierras para esperar ser juzgado por el asesinato de sus padres. En ese mismo pueblo busca refugio Leila, escapando de su vida familiar en la ciudad. En aquella asimétrica sincronía de espera y punto de fuga, ambos se conocen y comienzan una relación intensa que va carcomiendo el calmo entorno en el que se cruzan.",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "id": {
+        "source": "INCAA",
+        "sid": 4241
+      },
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 2.7,
+      "afi": "59970dfb88bf770b6df28ae4",
+      "tit": "Camino de campaña",
+      "visua": 128,
+      "pers": {
+        "01": [
+          {
+            "nom": "Nicolás Grosso",
+            "rol": "DIR",
+            "avatar": "59970dfb88bf770b6df28ae6",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 7338,
+            "impor": 3
+          },
+          {
+            "nom": "Agustin Rittano",
+            "rol": "INT",
+            "avatar": "586fce6288bf77058a5b7e3c",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 9949,
+            "impor": 5
+          },
+          {
+            "nom": "Valeria Blanc",
+            "rol": "INT",
+            "avatar": "59970dfb88bf770b6df28ae5",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 4063,
+            "impor": 9
+          },
+          {
+            "nom": "Paula Ituriza",
+            "rol": "INT",
+            "avatar": "5908b54688bf77058a5b8894",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6419,
+            "impor": 12
+          },
+          {
+            "nom": "Juan Barberini",
+            "rol": "ELS",
+            "avatar": "5838491b88bf77058a5b7b49",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 6643,
+            "impor": 8
+          }
+        ]
+      },
+      "rVotan": 16,
+      "ban": "599c59012916c529818a2175",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.4,
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "¿Quién mató a Mariano Ferreyra?",
+      "afi": "5939a55c2916c56e6bceab86",
+      "gens": [
+        {
+          "nom": "Biográfica",
+          "style": "genero-INCAA-3",
+          "ab": "B",
+          "stylesec": "genero-INCAA-3-sec",
+          "home": false
+        },
+        {
+          "nom": "Documental",
+          "style": "genero-INCAA-6",
+          "ab": "D",
+          "stylesec": "genero-INCAA-6-sec",
+          "home": false
+        }
+      ],
+      "dura": 97,
+      "an": "2013",
+      "pers": {
+        "01": [
+          {
+            "nom": "Alejandro Rath",
+            "rol": "DIR",
+            "avatar": "593ed5bc2916c56e6bceabdb",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 8736,
+            "impor": 1
+          },
+          {
+            "nom": "Julián Morcillo",
+            "rol": "DIR",
+            "avatar": "593ed5bc2916c56e6bceabda",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 8737,
+            "impor": 2
+          },
+          {
+            "nom": "Alberto Romero",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 3
+          },
+          {
+            "nom": "Julián Morcillo",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 4
+          },
+          {
+            "nom": "Alejandro Rath",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 5
+          }
+        ]
+      },
+      "sino": "El periodista Andrés Oviedo debe escribir sobre el asesinato de Mariano Ferreyra para la revista en la que trabaja. A lo largo de la historia, Oviedo realiza una serie de entrevistas y dialoga con distintos familiares y amigos de Ferreyra. La búsqueda de la verdad y de las razones profundas del crimen lo llevan a enfrentarse con sus editores, que lo desplazan del caso.",
+      "rVotan": 56,
+      "foto": "5939a81e88bf77058a5b8a8c",
+      "mouseover": "561d61072916c53546d2bd11",
+      "id": {
+        "source": "INCAA",
+        "sid": 4238
+      },
+      "visua": 465
+    },
+    {
+      "foto": "597f6ef188bf770b6df2899e",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 78,
+      "an": "2012",
+      "sino": "Visiblemente golpeado por las vueltas que tomó su vida, girando en falso, Daniel regresa a su pueblo.",
+      "id": {
+        "source": "INCAA",
+        "sid": 4225
+      },
+      "visua": 37,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3.4,
+      "afi": "597f79f788bf770b6df289a9",
+      "tit": "Tan cerca como pueda",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "pers": {
+        "01": [
+          {
+            "nom": "Eduardo Crespo",
+            "rol": "DIR",
+            "avatar": "5980c44e88bf770b6df289bd",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 5672,
+            "impor": 1
+          },
+          {
+            "nom": "Daniel Laferrara",
+            "rol": "INT",
+            "avatar": "5980c44e88bf770b6df289be",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8824,
+            "impor": 2
+          },
+          {
+            "nom": "Giovanni Pelizzari",
+            "rol": "INT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8825,
+            "impor": 3
+          },
+          {
+            "nom": "María Emilia Godoy",
+            "rol": "INT",
+            "avatar": "5980c44e88bf770b6df289bf",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8830,
+            "impor": 4
+          },
+          {
+            "nom": "Eduardo Crespo",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 5
+          }
+        ]
+      },
+      "rVotan": 7,
+      "ban": "5980c44e88bf770b6df289bc",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.6,
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "Esos colores que llevas",
+      "afi": "59722fec88bf770b6df28902",
+      "gens": [
+        {
+          "nom": "Deportes",
+          "style": "genero-INCAA-23",
+          "ab": "D",
+          "stylesec": "genero-INCAA-23-sec",
+          "home": false
+        },
+        {
+          "nom": "Documental",
+          "style": "genero-INCAA-6",
+          "ab": "D",
+          "stylesec": "genero-INCAA-6-sec",
+          "home": false
+        }
+      ],
+      "dura": 61,
+      "an": "2013",
+      "pers": {
+        "01": [
+          {
+            "nom": "Federico Peretti",
+            "rol": "DIR",
+            "avatar": "596cde0088bf770b6df288bf",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 8652,
+            "impor": 1
+          },
+          {
+            "nom": "Federico Peretti",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 2
+          },
+          {
+            "nom": "Federico Peretti",
+            "rol": "FOT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Dirección de fotografía",
+            "rolorden": "00013",
+            "grupo": "02",
+            "sid": null,
+            "impor": 3
+          },
+          {
+            "nom": "Amalia Fischbein",
+            "rol": "MUS",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Música",
+            "rolorden": "00014",
+            "grupo": "02",
+            "sid": null,
+            "impor": 4
+          },
+          {
+            "nom": "Federico Peretti",
+            "rol": "MON",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Montaje",
+            "rolorden": "00016",
+            "grupo": "02",
+            "sid": null,
+            "impor": 5
+          }
+        ]
+      },
+      "sino": "El 8 de octubre de 2012 el pueblo riverplatense llevó a cabo la mayor manifestación popular deportiva de la República Argentina. Más de cien mil personas salieron a la calle y unieron la vieja cancha de Alvear (hoy Libertador) y Tagle con el Estadio Monumental llevando en sus manos la bandera más larga del mundo de un club de fútbol, un trapo de casi 8 kilómetros de extensión.",
+      "rVotan": 117,
+      "foto": "59722fec88bf770b6df28903",
+      "mouseover": "561d61072916c53546d2bd11",
+      "id": {
+        "source": "INCAA",
+        "sid": 4222
+      },
+      "visua": 519
+    },
+    {
+      "foto": "596cde0088bf770b6df288bd",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 94,
+      "an": "2012",
+      "sino": "\"El otro fútbol\" no es sólo un documental sobre fútbol, es vivir en carne propia un mundo signado por el despojo y el olvido, pero con una amplia oferta para aquel valiente que esté dispuesto a explorarlo. Barrio, improvisación, sacrificio y situaciones que parecen haber salido de un cuento.",
+      "id": {
+        "source": "INCAA",
+        "sid": 4221
+      },
+      "visua": 381,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.5,
+      "afi": "596cde0088bf770b6df288bc",
+      "tit": "El otro fútbol",
+      "gens": [
+        {
+          "nom": "Documental",
+          "style": "genero-INCAA-6",
+          "ab": "D",
+          "stylesec": "genero-INCAA-6-sec",
+          "home": false
+        },
+        {
+          "nom": "Deportes",
+          "style": "genero-INCAA-23",
+          "ab": "D",
+          "stylesec": "genero-INCAA-23-sec",
+          "home": false
+        }
+      ],
+      "pers": {
+        "01": [
+          {
+            "nom": "Federico Peretti",
+            "rol": "DIR",
+            "avatar": "596cde0088bf770b6df288bf",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 8652,
+            "impor": 2
+          },
+          {
+            "nom": "Federico Peretti",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 5
+          },
+          {
+            "nom": "Federico Peretti",
+            "rol": "FOT",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Dirección de fotografía",
+            "rolorden": "00013",
+            "grupo": "02",
+            "sid": null,
+            "impor": 6
+          },
+          {
+            "nom": "Julián Gómez",
+            "rol": "MUS",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Música",
+            "rolorden": "00014",
+            "grupo": "02",
+            "sid": null,
+            "impor": 7
+          },
+          {
+            "nom": "Fernando Iguacel",
+            "rol": "SON",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Sonido",
+            "rolorden": "00015",
+            "grupo": "02",
+            "sid": null,
+            "impor": 8
+          }
+        ]
+      },
+      "rVotan": 56,
+      "ban": "596d0c712916c529818a1f1a",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.3,
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "La gente del río",
+      "afi": "59762b9088bf770b6df28942",
+      "gens": [
+        {
+          "nom": "Documental",
+          "style": "genero-INCAA-6",
+          "ab": "D",
+          "stylesec": "genero-INCAA-6-sec",
+          "home": false
+        }
+      ],
+      "dura": 62,
+      "an": "2013",
+      "pers": {
+        "01": [
+          {
+            "nom": "Martín Benchimol",
+            "rol": "DIR",
+            "avatar": "59d3acb388bf770b6df28e72",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 7422,
+            "impor": 2
+          },
+          {
+            "nom": "Pablo Aparo",
+            "rol": "DIR",
+            "avatar": "597755cf2916c529818a1f91",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 8783,
+            "impor": 3
+          },
+          {
+            "nom": "Martín Benchimol",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 4
+          },
+          {
+            "nom": "Leandro de Loredo",
+            "rol": "SON",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Sonido",
+            "rolorden": "00015",
+            "grupo": "02",
+            "sid": null,
+            "impor": 5
+          },
+          {
+            "nom": "Pablo Aparo",
+            "rol": "MON",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Montaje",
+            "rolorden": "00016",
+            "grupo": "02",
+            "sid": null,
+            "impor": 6
+          }
+        ]
+      },
+      "sino": "Ernestina es un pequeño pueblo de 150 habitantes, escenario de este documental con la tensión y suspenso de un film de ficción. Los personajes extraños que viven en el pueblo nos introducen en los hechos vandálicos que produce la gente que visita el río. Actualmente los vecinos instalaron seguridad privada y al parecer esto acabó con el problema.",
+      "rVotan": 20,
+      "foto": "59762b9088bf770b6df28943",
+      "mouseover": "561d61072916c53546d2bd11",
+      "id": {
+        "source": "INCAA",
+        "sid": 4217
+      },
+      "visua": 169
+    },
+    {
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 4.2,
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "tit": "El verano del camoati",
+      "afi": "596ce6172916c529818a1f17",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "dura": 83,
+      "an": "2010",
+      "pers": {
+        "01": [
+          {
+            "nom": "Federico Laffitte",
+            "rol": "DIR",
+            "avatar": "596e1c672916c529818a1f25",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 5107,
+            "impor": 2
+          },
+          {
+            "nom": "Iván Magne",
+            "rol": "INT",
+            "avatar": "596e62f12916c529818a1f27",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6310,
+            "impor": 3
+          },
+          {
+            "nom": "Mariana Rizzuto",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 8
+          },
+          {
+            "nom": "Federio Laffitte",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 9
+          },
+          {
+            "nom": "Raúl Laffitte",
+            "rol": "ADI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Asistente de dirección",
+            "rolorden": "00012",
+            "grupo": "02",
+            "sid": null,
+            "impor": 10
+          }
+        ]
+      },
+      "sino": "A sus 17 años, Nico disfruta el último verano en su pueblo: trabaja en la cosecha, rema por el río, descubre que su amiga de la infancia ya no es más una niña. Sus padres esperan que vaya a la universidad porque la vida en la chacra, en estos días, no es una alternativa económica.",
+      "rVotan": 29,
+      "foto": "596ce6172916c529818a1f18",
+      "mouseover": "561d61072916c53546d2bd11",
+      "id": {
+        "source": "INCAA",
+        "sid": 4216
+      },
+      "visua": 320
+    },
+    {
+      "foto": "595123132916c56e6bceacb6",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 91,
+      "an": "2014",
+      "sino": "La trama gira en entorno a un caserío misterioso, con una población envejecida, donde se destacan una mujer joven y su pequeña hija. El protagonista masculino es un hombre de ciudad que necesitará de la extraña hospitalidad de este pueblo perdido en medio de la nada.",
+      "id": {
+        "source": "INCAA",
+        "sid": 4192
+      },
+      "visua": 501,
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 2.9,
+      "afi": "595123132916c56e6bceacb8",
+      "tit": "El manto de hiel",
+      "gens": [
+        {
+          "nom": "Suspenso",
+          "style": "genero-INCAA-15",
+          "ab": "S",
+          "stylesec": "genero-INCAA-15-sec",
+          "home": false
+        },
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "pers": {
+        "01": [
+          {
+            "nom": "Gustavo Corrado",
+            "rol": "DIR",
+            "avatar": "5951204d2916c56e6bceacb4",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 8958,
+            "impor": 1
+          },
+          {
+            "nom": "Margarita Molfino",
+            "rol": "INT",
+            "avatar": "595123132916c56e6bceacb9",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 8022,
+            "impor": 6
+          },
+          {
+            "nom": "William Prociuk",
+            "rol": "INT",
+            "avatar": "59512b2688bf77058a5b8b82",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 9950,
+            "impor": 11
+          },
+          {
+            "nom": "Daniel Dibiase",
+            "rol": "ELS",
+            "avatar": "595123132916c56e6bceacba",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 6955,
+            "impor": 4
+          },
+          {
+            "nom": "Alberto Suárez",
+            "rol": "ELS",
+            "avatar": "586fd0e288bf77058a5b7e3e",
+            "roldesc": "Elenco Secundario",
+            "rolorden": "00004",
+            "grupo": "01",
+            "sid": 6867,
+            "impor": 10
+          }
+        ]
+      },
+      "rVotan": 26,
+      "ban": "595123132916c56e6bceacb5",
+      "mouseover": "561d61072916c53546d2bd11"
+    },
+    {
+      "foto": "59a42a6d2916c529818a2203",
+      "tags": [
+        "larg",
+        "publi",
+        "arsat"
+      ],
+      "dura": 74,
+      "an": "2010",
+      "sino": "Sosa trabaja en un bar, tiene 40 años y emigró solo a Buenos Aires desde su pueblo cuando era muy joven. Su vida es rutinaria. Hasta que un día, una vieja y gastada postal pegada en un estante de la cocina del bar llama su atención. ",
+      "gens": [
+        {
+          "nom": "Drama",
+          "style": "genero-INCAA-7",
+          "ab": "D",
+          "stylesec": "genero-INCAA-7-sec",
+          "home": false
+        }
+      ],
+      "id": {
+        "source": "INCAA",
+        "sid": 4189
+      },
+      "vista": {
+        "completa": false,
+        "secsTranscu": 0,
+        "secsDura": 0,
+        "porcen": 0,
+        "fModif": null
+      },
+      "rProme": 3,
+      "afi": "59a42a6d2916c529818a2202",
+      "tit": "Malón",
+      "visua": 152,
+      "pers": {
+        "01": [
+          {
+            "nom": "Fabián Fattore",
+            "rol": "DIR",
+            "avatar": "59a43a102916c529818a220c",
+            "roldesc": "Dirección",
+            "rolorden": "00001",
+            "grupo": "01",
+            "sid": 6437,
+            "impor": 2
+          },
+          {
+            "nom": "Darío Levin",
+            "rol": "INT",
+            "avatar": "59a43a102916c529818a220d",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 6268,
+            "impor": 3
+          },
+          {
+            "nom": "Lorena Vega",
+            "rol": "INT",
+            "avatar": "59a43a102916c529818a220e",
+            "roldesc": "Protagonistas",
+            "rolorden": "00003",
+            "grupo": "01",
+            "sid": 7536,
+            "impor": 4
+          },
+          {
+            "nom": "Fabián Fattore",
+            "rol": "GUI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Guion",
+            "rolorden": "00011",
+            "grupo": "02",
+            "sid": null,
+            "impor": 5
+          },
+          {
+            "nom": "Álvaro Luque",
+            "rol": "ADI",
+            "avatar": "561d5f562916c53546d2bd0d",
+            "roldesc": "Asistente de dirección",
+            "rolorden": "00012",
+            "grupo": "02",
+            "sid": null,
+            "impor": 6
+          }
+        ]
+      },
+      "rVotan": 24,
+      "ban": "59a57ab788bf770b6df28be7",
+      "mouseover": "561d61072916c53546d2bd11"
+    }
+  ],
+  "canti": 24,
+  "objsturi": "https://img.cine.ar/image",
+  "pag": 4,
+  "titulo": "Películas",
+  "order": [
+    {
+      "nom": "Destacadas",
+      "id": "desta"
+    },
+    {
+      "nom": "Título (alfabético)",
+      "id": "alfa"
+    },
+    {
+      "nom": "Año: descendente",
+      "id": "an"
+    },
+    {
+      "nom": "Año: ascendente",
+      "id": "ian"
+    },
+    {
+      "nom": "Novedades",
+      "id": "falta"
+    },
+    {
+      "nom": "Mejor calificadas",
+      "id": "voto"
+    }
+  ]
+}

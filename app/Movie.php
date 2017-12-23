@@ -6,15 +6,15 @@ class Movie extends Model
 {
    protected $table = 'movies';
 
-  public function genders() {
-    return $this->belongsToMany('App\Gender', 'genders_movies',
-      'movie_id', 'gender_id');
+  public function genres() {
+    return $this->belongsToMany('App\Genre', 'genres_movies',
+      'movie_id', 'genre_id');
   }
 
   // $movie->people()->attach(1,["job_role_id"=>2])
   public function people() {
     return $this->belongsToMany('App\People', 'movies_people',
-      'movie_id', 'person_id')->withPivot('job_role');
+      'movie_id', 'person_id')->withPivot('job_role_id');
   }
 
   public function jobsRoles() {

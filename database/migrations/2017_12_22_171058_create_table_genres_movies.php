@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateTableGendersMovies extends Migration
+class CreateTableGenresMovies extends Migration
 {
     /**
      * Run the migrations.
@@ -13,12 +13,12 @@ class CreateTableGendersMovies extends Migration
      */
     public function up()
     {
-      Schema::create('genders_movies', function (Blueprint $table) {
-        $table->integer('gender_id')->unsigned();
-        $table->foreign('gender_id')->references('id')->on('genders');
+      Schema::create('genres_movies', function (Blueprint $table) {
+        $table->integer('genre_id')->unsigned();
+        $table->foreign('genre_id')->references('id')->on('genres');
         $table->integer('movie_id')->unsigned();
         $table->foreign('movie_id')->references('id')->on('movies');
-        $table->primary(['gender_id', 'movie_id']);
+        $table->primary(['genre_id', 'movie_id']);
         $table->timestamps();
         $table->softDeletes();
       });
@@ -31,6 +31,6 @@ class CreateTableGendersMovies extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('genders_movies');
+        Schema::dropIfExists('genres_movies');
     }
 }
