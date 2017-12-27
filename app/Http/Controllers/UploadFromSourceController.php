@@ -17,7 +17,7 @@ class UploadFromSourceController extends Controller
 {
     public function movies () {
 
-      $file = file_get_contents("http://localhost/laravel/qpeliculas/public/cine.ar/json/movies_01.json");
+      $file = file_get_contents("http://localhost/laravel/peliculas/public/cine.ar/json/movies_01.json");
 
       $json = json_decode($file);
 
