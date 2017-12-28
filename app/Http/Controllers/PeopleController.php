@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\people;
+use App\People;
 use Illuminate\Http\Request;
 
 class PeopleController extends Controller
@@ -44,9 +44,11 @@ class PeopleController extends Controller
      * @param  \App\people  $people
      * @return \Illuminate\Http\Response
      */
-    public function show(people $people)
+    public function show(People $person)
     {
-        //
+      $movies = $person->movies()->get();
+
+      return view("people.view",compact("person","movies"));
     }
 
     /**

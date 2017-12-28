@@ -20,6 +20,7 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::resource('/movies', 'MovieController');
+Route::resource('/people', 'PeopleController');
 
 Route::get('/uploadGendersFromCineAr', 'UploadFromSourceController@genders');
 Route::get('/uploadPeopleFromCineAr', 'UploadFromSourceController@people');

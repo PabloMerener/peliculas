@@ -62,15 +62,11 @@ class MovieController extends Controller
      */
     public function show(Movie $movie)
     {
-
-      // $movie = Movie::with('people')->find($movie);
-      // $movie = Movie::with('jobsRoles')->with('people')->find($movie);
       $roles = $movie->jobsRoles->pluck('name','id');
       $people = $movie->people->pluck('name','id');
-      // dd($roles,$people,$movie);
-      // dd($movie);
+      $genres = $movie->genres->pluck('name','id');
 
-      return view("movies.view",compact("movie","roles"));
+      return view("movies.view",compact("movie","roles","genres"));
     }
 
     /**

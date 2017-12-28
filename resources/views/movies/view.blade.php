@@ -11,6 +11,18 @@
           </a>
         </div>
         <div class="card">
+          <div class="card-body" style="text-align:right;">
+            {{ $movie->title }} / {{ $movie->year }}
+          </div>
+        </div>
+        <div class="card" style="text-align:center;">
+          @foreach ($genres as $id => $name)
+            <div class="card-body">
+              <a href="/genres/{{ $id }}" class="btn btn-primary">{{ $name }}</a>
+            </div>
+          @endforeach
+        </div>
+        <div class="card">
           <div class="card-body">
             {{ $movie->synopsis }}
           </div>
@@ -29,8 +41,9 @@
                   @if ($person->pivot->job_role_id == $key)
                     <div class="col-sm-6">
                       <div class="card" style="width: 7rem; text-align: center;">
-                        <img class="card-img-top" src="{{ Storage::disk('local')->url('people/'. $person->avatar ) }}" alt="Card image cap">
-                        {{-- <p style="text-align: center;">{{ $person->name }}</p> --}}
+                        <a href="/people/{{ $person->id }}">
+                          <img class="card-img-top" src="{{ Storage::disk('local')->url('people/'. $person->avatar ) }}" alt="Card image cap">
+                        </a>
                         {{ $person->name }}
                       </div>
                     </div>
@@ -41,11 +54,7 @@
           </div>
         @endforeach
       </div>
-
-
     </div>
-
-
   </div>
 
 @endsection
