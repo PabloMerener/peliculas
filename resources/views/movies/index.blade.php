@@ -21,19 +21,21 @@ https://blackrockdigital.github.io/startbootstrap-thumbnail-gallery/ --}}
     <div class="row">
       @foreach ($movies as $movie)
         <div class="col-md-2 col-sm-6">
-          <div class="thumbnail">
-            <a href="/movies/{{ $movie->id }}">
-              <img src="{{ Storage::disk('local')->url('posters/'. $movie->movie_image ) }}" alt="" style="width:100%">
-              <div class="caption">
-                <p>{{ $movie->title }}</p>
-              </div>
-            </a>
+          <div class="card">
+            <div class="card-block">
+              <a href="/movies/{{ $movie->id }}">
+                <img class="card-img-top" src="{{ Storage::disk('local')->url('posters/'. $movie->movie_image ) }}" alt="" style="width:100%">
+              </a>
+              {{-- <p style=" width: 6rem;" class="card-text">{{ $movie->title }}</p> --}}
+              <p style="font-size: 0.8em; text-align: center;" class="card-text">{{ $movie->title }}</p>
+              {{-- <p style="text-align: center;" class="card-text">{{ $movie->title }}</p> --}}
+
+            </div>
+
           </div>
+          <p></p>
         </div>
       @endforeach
     </div>
   </div>
-{{-- </body>
-</html> --}}
-
 @endsection

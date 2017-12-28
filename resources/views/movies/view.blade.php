@@ -12,8 +12,8 @@
         </div>
         <div class="card">
           <div class="card-body">
-        {{ $movie->synopsis }}
-        </div>
+            {{ $movie->synopsis }}
+          </div>
         </div>
       </div>
 
@@ -28,8 +28,9 @@
                 @foreach ($movie->people as $person)
                   @if ($person->pivot->job_role_id == $key)
                     <div class="col-sm-6">
-                      <div class="card" style="width: 7rem;">
+                      <div class="card" style="width: 7rem; text-align: center;">
                         <img class="card-img-top" src="{{ Storage::disk('local')->url('people/'. $person->avatar ) }}" alt="Card image cap">
+                        {{-- <p style="text-align: center;">{{ $person->name }}</p> --}}
                         {{ $person->name }}
                       </div>
                     </div>
