@@ -62,7 +62,8 @@ class MovieController extends Controller
      */
     public function show(Movie $movie)
     {
-      $roles = $movie->jobsRoles->pluck('name','id');
+      $roles = $movie->jobsRoles->pluck('name','id')->all();
+      ksort($roles);
       $people = $movie->people->pluck('name','id');
       $genres = $movie->genres->pluck('name','id');
 

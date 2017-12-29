@@ -46,8 +46,7 @@ class PeopleController extends Controller
      */
     public function show(People $person)
     {
-      $movies = $person->movies()->get();
-
+      $movies = $person->movies()->orderBy('year')->get()->all();
       return view("people.view",compact("person","movies"));
     }
 

@@ -22,4 +22,9 @@ class Movie extends Model
       'movie_id', 'job_role_id');
   }
 
+  public function sources() {
+    return $this->belongsToMany('App\Source', 'movies_sources',
+      'movie_id', 'source_id');
+  }
+
 }

@@ -6,9 +6,7 @@
     <div class="row">
       <div class="col-md-6 col-sm-6">
         <div class="thumbnail">
-          <a href="#">
-            <img src="{{ Storage::disk('local')->url('posters/'. $movie->movie_image ) }}" alt="" style="width:100%">
-          </a>
+          <img src="{{ Storage::disk('local')->url('posters/'. $movie->movie_image ) }}" alt="" style="width:100%">
         </div>
         <div class="card">
           <div class="card-body" style="text-align:right;">

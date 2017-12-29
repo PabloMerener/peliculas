@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateSourcesMoviesTable extends Migration
+class CreateMoviesSourcesTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,7 +13,7 @@ class CreateSourcesMoviesTable extends Migration
      */
     public function up()
     {
-        Schema::create('sources_movies', function (Blueprint $table) {
+        Schema::create('movies_sources', function (Blueprint $table) {
             $table->integer('movie_id')->unsigned();
             $table->foreign('movie_id')->references('id')->on('movies');
             $table->integer('source_id')->unsigned();
@@ -21,7 +21,7 @@ class CreateSourcesMoviesTable extends Migration
             $table->primary(['movie_id', 'source_id']);
             $table->timestamps();
             $table->softDeletes();
-            $table->string('url',40);        
+            $table->string('url',40);
         });
     }
 
@@ -32,6 +32,6 @@ class CreateSourcesMoviesTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('sources_movies');
+        Schema::dropIfExists('movies_sources');
     }
 }
