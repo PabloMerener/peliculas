@@ -46,7 +46,9 @@ class PeopleController extends Controller
      */
     public function show(People $person)
     {
-      $movies = $person->movies()->orderBy('year')->get()->all();
+      // distinct('movie_id'): avoids movie duplication
+      // when a person has more than one role in the same movie
+      $movies = $person->movies()->distinct('movie_id')->orderBy('year')->get()->all();
       return view("people.view",compact("person","movies"));
     }
 
