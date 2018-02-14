@@ -34,5 +34,6 @@ https://blackrockdigital.github.io/startbootstrap-thumbnail-gallery/ --}}
         </div>
       @endforeach
     </div>
+    {{$movies->render("pagination::bootstrap-4")}}
   </div>
 @endsection

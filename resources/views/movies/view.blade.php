@@ -28,6 +28,16 @@
       </div>
 
       <div class="col-md-6 col-sm-6">
+        <div class="card" style="text-align:center;">
+          @foreach ($sources as $source)
+              <div class="card-body">
+                  <a href="{{ $source->pivot->url }}" class="card-img-top" target="_blank">
+                    <img src="{{ Storage::disk('local')->url('sources/') }}{{ $source->avatar }}" alt="">
+                  </a>
+              </div>
+          @endforeach
+        </div>
+
         @foreach ($roles as $key => $value)
           <div class="card">
             <div class="card-header">
@@ -51,6 +61,7 @@
             </div>
           </div>
         @endforeach
+
       </div>
     </div>
   </div>

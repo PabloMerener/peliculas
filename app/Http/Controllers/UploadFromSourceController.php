@@ -8,6 +8,7 @@ use App\Movie;
 use App\Genre;
 use App\People;
 use App\JobRole;
+use App\Source;
 
 use Illuminate\Support\Facades\Storage;
 
@@ -23,8 +24,16 @@ class UploadFromSourceController extends Controller
 
       $j_movies = $json->prods;
 
+      $source = Source::find(1);
+      $source_url1_prefix = "https://play.cine.ar/";
+      $source_url2_prefix = "/produccion/";
+
       foreach ($j_movies as $j_movie) {
 
+        if (Movie::where('title',$j_movie->tit)->first()) {
+          dump($j_movie->tit);
+          continue;
+        }
         $movie = new Movie;
 
         $movie->title       = $j_movie->tit;
@@ -98,6 +107,14 @@ class UploadFromSourceController extends Controller
           $movie->genres()->attach($genre->id);
         }
 
+        $j_source = $j_movie->id;
+
+        $url_source = $source_url1_prefix . // https://play.cine.ar/
+                      $j_source->source .
+                      $source_url2_prefix . // /produccion/
+                      $j_source->sid;
+
+        $movie->sources()->attach($source,["url"=>$url_source]);
       }
 
     }

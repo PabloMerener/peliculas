@@ -24,7 +24,7 @@ class Movie extends Model
 
   public function sources() {
     return $this->belongsToMany('App\Source', 'movies_sources',
-      'movie_id', 'source_id');
+      'movie_id', 'source_id')->withPivot('url');
   }
 
 }

@@ -21,7 +21,7 @@ class CreateMoviesSourcesTable extends Migration
             $table->primary(['movie_id', 'source_id']);
             $table->timestamps();
             $table->softDeletes();
-            $table->string('url',40);
+            $table->string('url',100);
         });
     }
 

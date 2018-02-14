@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Movie;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Http\Request;
 
 class MovieController extends Controller
@@ -14,7 +15,7 @@ class MovieController extends Controller
      */
     public function index()
     {
-        $movies = Movie::all();
+        $movies = Movie::orderBy('year', 'desc')->paginate(18);
 
         return view('movies.index', compact("movies"));
     }
@@ -64,10 +65,12 @@ class MovieController extends Controller
     {
       $roles = $movie->jobsRoles->pluck('name','id')->all();
       ksort($roles);
-      $people = $movie->people->pluck('name','id');
-      $genres = $movie->genres->pluck('name','id');
 
-      return view("movies.view",compact("movie","roles","genres"));
+      $people  = $movie->people->pluck('name','id');
+      $genres  = $movie->genres->pluck('name','id');
+      $sources = $movie->sources()->get();
+
+      return view("movies.view",compact("movie","roles","genres","sources"));
     }
 
     /**
