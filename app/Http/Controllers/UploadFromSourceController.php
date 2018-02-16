@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use Symfony\Component\DomCrawler\Crawler;
 use Illuminate\Http\Request;
 
 use App\Movie;
@@ -16,6 +16,176 @@ use Illuminate\Http\File;
 
 class UploadFromSourceController extends Controller
 {
+  public function pelispedia () {
+
+    return view ("movies.pelispedia");
+
+    }
+
+
+
+
+    // private function getCites (string $url) {
+    private function getCites ($url) {
+
+      try {
+        $fp = file_get_contents($url);
+      } catch (Exception $e) {
+        // dd($e)
+        return null;
+      }
+
+      // try {
+      //     $content = file_get_contents('https://en.wikipedia.org/wiki/Cat#/media/File:Large_Siamese_cat_tosses_a_mouse.jpg');
+      //
+      //     if ($content === false) {
+      //         // Handle the error
+      //     }
+      // } catch (Exception $e) {
+      //     // Handle exception
+      // }
+      //
+      if (!$fp) return null;
+
+      // cites
+      $cites = preg_match_all("/<cite>(.*)<\/cite>/siU", $fp, $title_matches);
+      $cites = $title_matches[1];
+
+      var_dump($cites);
+
+      $res = preg_match_all('/<a(.*)<\/a>/siU', $fp, $title_matches);
+      if (!$res) dd(null);
+
+      $next = "";
+
+      foreach ($title_matches as $key => $value) {
+
+        foreach ($value as $k => $v) {
+          if (strpos($v, 'href="/search?q=site:https://www.pelispedia.tv/pelicula/') !== false) {
+            $next = $v;
+          }
+
+        }
+      }
+
+//    remove after href="
+      if (!is_bool(strpos($next, 'href="')))
+        $next = substr($next, strpos($next,'href="')+strlen('href="'));
+
+      // remove before
+      $next = substr($next, 0, strpos($next, '"'));
+      // remove 'amp;'
+      $host = parse_url($url, PHP_URL_HOST);
+      $next = parse_url($url, PHP_URL_SCHEME) . "://" . $host . htmlspecialchars_decode($next);
+
+      dd($next);
+
+      // $this->getCites($next);
+    }
+
+
+    public function google (Request $request) {
+
+      // $url = "https://www.pelispedia.tv/pelicula/constantine/";
+      $url = "https://www.google.com.ar/search?hl=es-419&source=hp&ei=jd2EWqiIOsKGwQTtn7zgBQ&q=site%3Ahttps%3A%2F%2Fwww.pelispedia.tv%2Fpelicula%2F&oq=&gs_l=psy-ab.1.0.35i39k1l6.0.0.0.141204.5.1.0.0.0.0.0.0..1.0....0...1c..64.psy-ab..4.1.330.6...330.Uxo4iggclRs";
+
+      // $ch = curl_init();
+      //      $user_agent='Mozilla/5.0 (Windows NT 6.1; rv:8.0) Gecko/20100101 Firefox/8.0';
+      //         curl_setopt($ch, CURLOPT_URL, $url);
+      //         curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+      //           curl_setopt($ch, CURLOPT_AUTOREFERER, false);
+      //     curl_setopt($ch, CURLOPT_VERBOSE, 1);
+      //     curl_setopt($ch, CURLOPT_HEADER, 0);
+      //
+      //         curl_setopt($ch, CURLOPT_USERAGENT, $user_agent);
+      //         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+      //         curl_setopt($ch, CURLOPT_SSLVERSION,CURL_SSLVERSION_DEFAULT);
+      //         curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+      //         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+      //         $webcontent= curl_exec ($ch);
+      //         $error = curl_error($ch);
+      //         curl_close ($ch);
+      //
+      //         dd($webcontent, $ch);
+
+$this->getCites($url);
+
+//       $fp = file_get_contents($url);
+//       if (!$fp) return null;
+//
+//       // cites
+//       $cites = preg_match_all("/<cite>(.*)<\/cite>/siU", $fp, $title_matches);
+//       $cites = $title_matches[1];
+//
+//       var_dump($cites);
+//
+//       $res = preg_match_all('/<a(.*)<\/a>/siU', $fp, $title_matches);
+//       if (!$res) dd(null);
+//
+//       foreach ($title_matches as $key => $value) {
+//
+//         foreach ($value as $k => $v) {
+//           if (strpos($v, 'href="/search?q=site:https://www.pelispedia.tv/pelicula/') !== false) {
+//             $next = $v;
+//           }
+//
+//         }
+//       }
+//
+// //    remove after href="
+//       if (!is_bool(strpos($next, 'href="')))
+//         $next = substr($next, strpos($next,'href="')+strlen('href="'));
+//
+//       // remove before
+//       $next = substr($next, 0, strpos($next, '"'));
+//       // remove 'amp;'
+//       $host = parse_url($url, PHP_URL_HOST);
+//       $next = parse_url($url, PHP_URL_SCHEME) . "://" . $host . htmlspecialchars_decode($next);
+//
+//       var_dump($next);
+//
+//       $this->getCites($next);
+
+
+
+
+
+
+      // $this->getCites($url);
+
+//       //  = parse_url($url);
+//       $host = parse_url($url, PHP_URL_HOST);
+//
+//       $fp = file_get_contents($url);
+//       if (!$fp) return null;
+//
+//       // cites
+//       $cites = preg_match_all("/<cite>(.*)<\/cite>/siU", $fp, $title_matches);
+//       $cites = $title_matches[1];
+//
+//       $res = preg_match_all('/<a(.*)<\/a>/siU', $fp, $title_matches);
+//       if (!$res) dd(null);
+//
+//       foreach ($title_matches as $key => $value) {
+//
+//         foreach ($value as $k => $v) {
+//           if (strpos($v, 'href="/search?q=site:https://www.pelispedia.tv/pelicula/') !== false) {
+//             $next = $v;
+//           }
+//
+//         }
+//       }
+//
+// //    remove after href="
+//       if (!is_bool(strpos($next, 'href="')))
+//         $next = substr($next, strpos($next,'href="')+strlen('href="'));
+//
+//       // remove before
+//       $next = substr($next, 0, strpos($next, '"'));
+//       // remove 'amp;'
+//       $next = $host . htmlspecialchars_decode($next);
+    }
+
     public function movies () {
 
       $file = file_get_contents("http://localhost/laravel/peliculas/public/cine.ar/json/movies_03.json");
