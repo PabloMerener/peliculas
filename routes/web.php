@@ -29,6 +29,7 @@ Route::get('/uploadMoviesFromCineAr', 'UploadFromSourceController@movies');
 
 Route::get('/uploadMoviesFromGoogle', 'UploadFromSourceController@google');
 Route::get('/pelispedia', 'UploadFromSourceController@pelispedia');
+Route::get('/sourcesInitialization', 'UploadFromSourceController@sourcesInitialization');
 
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
